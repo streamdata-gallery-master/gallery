@@ -35,9 +35,9 @@ title: Streamdata.io API Gallery
       {% if nav.paths > 100 and nav.paths < 250 %} %}
         {% assign path_value = 4 %}
       {% endif %}
-      {% if nav.paths < 100 %} %}
+      {% if nav.paths < 100 %}
         {% assign path_value = 3 %}
-      {% endif %
+      {% endif %}
       <span data-weight="{{ path_value }}">
         <a href="http://{{ nav.slug }}.streamdata.gallery" target="_blank">{{ nav.label }}</a>
       </span>
