@@ -413,12 +413,6 @@
   image: events.png
   description: The gallery section containing Events API providers.
   paths: 479
-- label: Facebook
-  slug: facebook
-  url: http://facebook.streamdata.gallery/listings/apis/
-  image: facebook.png
-  description: The gallery section containing Facebook API providers.
-  paths: 100
 - label: Facial Recognition
   slug: facial-recognition
   url: http://facial-recognition.streamdata.gallery/listings/apis/
@@ -623,12 +617,6 @@
   image: messaging.png
   description: The gallery section containing Messaging API providers.
   paths: 1061
-- label: Microsoft
-  slug: microsoft
-  url: http://microsoft.streamdata.gallery/listings/apis/
-  image: microsoft.png
-  description: The gallery section containing Microsoft API providers.
-  paths: 2119
 - label: Migration
   slug: migration
   url: http://migration.streamdata.gallery/listings/apis/
