@@ -14,9 +14,7 @@ title: Streamdata.io API Gallery
 <section class="taggedLinkCards">
   {% assign navigation = site.data.navigation | sort: 'label' %}
   <div id="gallerycloud" class="wordcloud">
-    {% for nav in navigation %}}
-      <span data-weight="{{ nav.paths }}">{{ nav.label }}</span>
-    {% endfor %}
+    {% for nav in navigation %}<span data-weight="{{ nav.paths }}"><a href="http://{{ nav.slug }}.streamdata.gallery" target="_blank">{{ nav.label }}</a></span>{% endfor %}
   </div>
 
   <script>
