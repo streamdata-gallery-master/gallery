@@ -2,9 +2,14 @@
 layout: default
 title: Streamdata.io API Gallery
 ---
-<section class="taggedLinkCards">
 
-  <h1 class="shortMasthead__headline enterAnimation enterAnimation--active" data-enter-animation="">{{ page.title }}</h1>
+<div class="shortMasthead  shortMasthead--extra-top-padding ">
+   <div class="shortMasthead__container">
+     {% include api-listing-feature.html %}
+   </div>
+</div>
+
+<section class="taggedLinkCards">
 
   {% assign navigation = site.data.navigation | sort: 'label' %}
   <div id="gallerycloud" class="wordcloud">
