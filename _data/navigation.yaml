@@ -187,7 +187,7 @@
   paths: 217
 - label: City Government
   slug: city-government
-  url: http://city-government.streamdata.gallery/listings/apis/
+  url: http://city.government.streamdata.gallery/listings/apis/
   image: city-government.png
   description: The gallery section containing City Government API providers.
   paths: 5
@@ -295,7 +295,7 @@
   paths: 500
 - label: Data Warehouse
   slug: data-warehouse
-  url: http://data-warehouse.streamdata.gallery/listings/apis/
+  url: http://data.warehouse.streamdata.gallery/listings/apis/
   image: data-warehouse.png
   description: The gallery section containing Data Warehouse API providers.
   paths: 62
@@ -409,13 +409,13 @@
   paths: 479
 - label: Facial Recognition
   slug: facial-recognition
-  url: http://facial-recognition.streamdata.gallery/listings/apis/
+  url: http://facial.recognition.streamdata.gallery/listings/apis/
   image: facial-recognition.png
   description: The gallery section containing Facial Recognition API providers.
   paths: 12
 - label: Federal Government
   slug: federal-government
-  url: http://federal-government.streamdata.gallery/listings/apis/
+  url: http://federal.government.streamdata.gallery/listings/apis/
   image: federal-government.png
   description: The gallery section containing Federal Government API providers.
   paths: 274
@@ -565,7 +565,7 @@
   paths: 109
 - label: Machine Learning
   slug: machine-learning
-  url: http://machine-learning.streamdata.gallery/listings/apis/
+  url: http://machine.learning.streamdata.gallery/listings/apis/
   image: machine-learning.png
   description: The gallery section containing Machine Learning API providers.
   paths: 89
@@ -583,7 +583,7 @@
   paths: 2
 - label: Market Data
   slug: market-data
-  url: http://market-data.streamdata.gallery/listings/apis/
+  url: http://market.data.streamdata.gallery/listings/apis/
   image: market-data.png
   description: The gallery section containing Market Data API providers.
   paths: 101
@@ -643,7 +643,7 @@
   paths: 91
 - label: Natural Language
   slug: natural-language
-  url: http://natural-language.streamdata.gallery/listings/apis/
+  url: http://natural.language.streamdata.gallery/listings/apis/
   image: natural-language.png
   description: The gallery section containing Natural Language API providers.
   paths: 4
@@ -673,7 +673,7 @@
   paths: 144
 - label: Object Recognition
   slug: object-recognition
-  url: http://object-recognition.streamdata.gallery/listings/apis/
+  url: http://object.recognition.streamdata.gallery/listings/apis/
   image: object-recognition.png
   description: The gallery section containing Object Recognition API providers.
   paths: 12
@@ -689,12 +689,6 @@
   image: orchestration.png
   description: The gallery section containing Orchestration API providers.
   paths: 696
-- label: PaaS
-  slug: paas
-  url: http://paas.streamdata.gallery/listings/apis/
-  image: paas.png
-  description: The gallery section containing PaaS API providers.
-  paths: 65
 - label: Partners
   slug: partners
   url: http://partners.streamdata.gallery/listings/apis/
@@ -763,13 +757,13 @@
   paths: 22
 - label: Real Estate
   slug: real-estate
-  url: http://real-estate.streamdata.gallery/listings/apis/
+  url: http://real.estate.streamdata.gallery/listings/apis/
   image: real-estate.png
   description: The gallery section containing Real Estate API providers.
   paths: 330
 - label: Real Time
   slug: real-time
-  url: http://real-time.streamdata.gallery/listings/apis/
+  url: http://real.time.streamdata.gallery/listings/apis/
   image: real-time.png
   description: The gallery section containing Real Time API providers.
   paths: 54
@@ -865,7 +859,7 @@
   paths: 17
 - label: Sentiment Analysis
   slug: sentiment-analysis
-  url: http://sentiment-analysis.streamdata.gallery/listings/apis/
+  url: http://sentiment.analysis.streamdata.gallery/listings/apis/
   image: sentiment-analysis.png
   description: The gallery section containing Sentiment Analysis API providers.
   paths: 4
@@ -895,7 +889,7 @@
   paths: 4
 - label: Social Networks
   slug: social-networks
-  url: http://social-networks.streamdata.gallery/listings/apis/
+  url: http://social.networks.streamdata.gallery/listings/apis/
   image: social-networks.png
   description: The gallery section containing Social Networks API providers.
   paths: 46
@@ -913,7 +907,7 @@
   paths: 6
 - label: Speech Recognition
   slug: speech-recognition
-  url: http://speech-recognition.streamdata.gallery/listings/apis/
+  url: http://speech.recognition.streamdata.gallery/listings/apis/
   image: speech-recognition.png
   description: The gallery section containing Speech Recognition API providers.
   paths: 6
@@ -931,7 +925,7 @@
   paths: 43
 - label: State Government
   slug: state-government
-  url: http://state-government.streamdata.gallery/listings/apis/
+  url: http://state.government.streamdata.gallery/listings/apis/
   image: state-government.png
   description: The gallery section containing State Government API providers.
   paths: 5
@@ -997,7 +991,7 @@
   paths: 193
 - label: Text Recognition
   slug: text-recognition
-  url: http://text-recognition.streamdata.gallery/listings/apis/
+  url: http://text.recognition.streamdata.gallery/listings/apis/
   image: text-recognition.png
   description: The gallery section containing Text Recognition API providers.
   paths: 1
@@ -1019,12 +1013,6 @@
   image: translation.png
   description: The gallery section containing Translation API providers.
   paths: 3
-- label: Transport
-  slug: transport
-  url: http://transport.streamdata.gallery/listings/apis/
-  image: transport.png
-  description: The gallery section containing Transport API providers.
-  paths: 5
 - label: Transportation
   slug: transportation
   url: http://transportation.streamdata.gallery/listings/apis/
@@ -1039,25 +1027,19 @@
   paths: 76
 - label: UK Banks
   slug: uk-banks
-  url: http://uk-banks.streamdata.gallery/listings/apis/
+  url: http://uk.banks.streamdata.gallery/listings/apis/
   image: uk-banks.png
   description: The gallery section containing UK Banks API providers.
   paths: 60
-- label: URL
-  slug: url
-  url: http://url.streamdata.gallery/listings/apis/
-  image: url.png
-  description: The gallery section containing URL API providers.
-  paths: 1
 - label: URL Shortener
   slug: url-shortener
-  url: http://url-shortener.streamdata.gallery/listings/apis/
+  url: http://url.shortener.streamdata.gallery/listings/apis/
   image: url-shortener.png
   description: The gallery section containing URL Shortener API providers.
   paths: 3
 - label: US Bank
   slug: us-bank
-  url: http://us-bank.streamdata.gallery/listings/apis/
+  url: http://us.bank.streamdata.gallery/listings/apis/
   image: us-bank.png
   description: The gallery section containing US Bank API providers.
   paths: 53
@@ -1073,12 +1055,6 @@
   image: videos.png
   description: The gallery section containing Videos API providers.
   paths: 177
-- label: Virtualization
-  slug: virtualization
-  url: http://virtualization.streamdata.gallery/listings/apis/
-  image: virtualization.png
-  description: The gallery section containing Virtualization API providers.
-  paths: 40
 - label: Visualizations
   slug: visualizations
   url: http://visualizations.streamdata.gallery/listings/apis/
