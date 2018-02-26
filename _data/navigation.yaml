@@ -197,12 +197,6 @@
   image: cloud.png
   description: The gallery section containing Cloud API providers.
   paths: 919
-- label: Code
-  slug: code
-  url: http://code.streamdata.gallery/listings/apis/
-  image: code.png
-  description: The gallery section containing Code API providers.
-  paths: 302
 - label: Coding
   slug: coding
   url: http://coding.streamdata.gallery/listings/apis/
@@ -947,24 +941,6 @@
   image: status.png
   description: The gallery section containing Status API providers.
   paths: 6
-- label: Stock
-  slug: stock
-  url: http://stock.streamdata.gallery/listings/apis/
-  image: stock.png
-  description: The gallery section containing Stock API providers.
-  paths: 43
-- label: Stock Market
-  slug: stock-market
-  url: http://stock-market.streamdata.gallery/listings/apis/
-  image: stock-market.png
-  description: The gallery section containing Stock Market API providers.
-  paths: 1
-- label: StockTwits
-  slug: stocktwits
-  url: http://stocktwits.streamdata.gallery/listings/apis/
-  image: stocktwits.png
-  description: The gallery section containing StockTwits API providers.
-  paths: 1
 - label: Stocks
   slug: stocks
   url: http://stocks.streamdata.gallery/listings/apis/
