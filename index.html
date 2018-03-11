@@ -48,7 +48,7 @@ title: Streamdata.io API Gallery
 {% assign topic_count = 0 %}
 {% assign topics = site.data.topics | sort: 'label' %}
 {% for topic in topics %}
-  {% assign topic_count = path_count | plus: 1 %}
+  {% assign topic_count = topic_count | plus: 1 %}
 {% endfor %}
 
 {% assign org_count = 0 %}
