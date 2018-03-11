@@ -86,10 +86,10 @@ title: Streamdata.io API Gallery
   #six li     { width:16.666%; }
 </style>
 
-<section style="padding: 25px;">
+<section style="padding: 25px 25px 25px 150px;">
 
     <h1>Topics</h1>
-    <ul id="triple">
+    <ul id="double">
       {% for topic in topics %}
         <li><a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
       {% endfor %}
@@ -159,11 +159,11 @@ title: Streamdata.io API Gallery
 
 </section>
 
-<section style="padding: 25px;">
+<section style="padding: 25px 25px 25px 150px;">
 
   <h1>Organizations</h1>
   {% assign organizations = site.data.organizations | sort: 'label' %}
-  <ul id="triple">
+  <ul id="double">
     {% for organization in organizations %}
       <li><a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
     {% endfor %}
