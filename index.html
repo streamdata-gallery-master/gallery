@@ -39,9 +39,21 @@ title: Streamdata.io API Gallery
     }
 </script>
 
+{% assign path_count = 0 %}
+{% assign topics = site.data.topics | sort: 'label' %}
+{% for topic in topics %}
+  {% assign path_count = path_count | plus: topic.paths %}
+{% endfor %}
+
+{% assign org_count = 0 %}
+{% assign organizations = site.data.organizations | sort: 'label' %}
+{% for organization in organizations %}
+  {% assign org_count = org_count | plus: 1 %}
+{% endfor %}
+
 <div class="shortMasthead  shortMasthead--extra-top-padding ">
   <h1 class="shortMasthead__headline enterAnimation enterAnimation--active" data-enter-animation="">{{ page.title }}</h1>
-  <p align="center"><strong>541 organizations with 23,420 API paths</strong></p>
+  <p align="center"><strong>{{ org_count }} organizations with {{ path_count }} API paths</strong></p>
 </div>
 
 <table border="0" style="margin-bottom:25px;" align="center">
