@@ -80,6 +80,19 @@ title: Streamdata.io API Gallery
     </ul>
   </div>
 
+</section>
+
+<section style="border: 0px solid #FFF; padding: 1px; margin: 1px;">
+
+  {% assign organizations = site.data.organizations | sort: 'label' %}
+
+  <div id="gallerycloud" class="wordcloud">
+    <ul>
+      {% for organization in organizations %}
+        <li><a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
 
 </section>
 
