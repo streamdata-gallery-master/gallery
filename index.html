@@ -86,7 +86,7 @@ title: Streamdata.io API Gallery
   #six li     { width:16.666%; }
 </style>
 
-<section style="padding: 25px 25px 25px 150px;">
+<div class="submitApi__overflowContainer" data-submit-api="">
 
     <h1>Topics</h1>
     <ul id="double">
@@ -95,7 +95,7 @@ title: Streamdata.io API Gallery
       {% endfor %}
     </ul>
 
-</section>
+</div>
 
 <section style="border: 0px solid #FFF; padding: 1px; margin: 1px;">
 
@@ -159,7 +159,7 @@ title: Streamdata.io API Gallery
 
 </section>
 
-<section style="padding: 25px 25px 25px 150px;">
+<div class="submitApi__overflowContainer" data-submit-api="">
 
   <h1>Organizations</h1>
   {% assign organizations = site.data.organizations | sort: 'label' %}
@@ -169,7 +169,7 @@ title: Streamdata.io API Gallery
     {% endfor %}
   </ul>
 
-</section>
+</div>
 
 <div class="submitApi__overflowContainer" data-submit-api="">
    <div class="submitApi submitApi--left-hand-image">
