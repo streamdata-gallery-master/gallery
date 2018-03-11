@@ -11,7 +11,7 @@ title: Streamdata.io API Gallery
 <section style="border: 0px solid #FFF; padding: 1px; margin: 1px;">
 
   {% assign topics = site.data.topics | sort: 'label' %}
-  <div id="gallerycloud" class="wordcloud">
+  <div id="topiccloud" class="wordcloud">
     {% for topic in topics %}
       {% if topic.paths > 2000 %}
         {% assign path_value = 10 %}
@@ -45,7 +45,7 @@ title: Streamdata.io API Gallery
 
   <script>
   $(document).ready(function(){
-      $("#gallerycloud").awesomeCloud({
+      $("#topiccloud").awesomeCloud({
         "size" : {
           "grid" : 14, // word spacing, smaller is more tightly packed
           "factor" : 20, // font resize factor, 0 means automatic
@@ -94,6 +94,68 @@ title: Streamdata.io API Gallery
         <li><a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
       {% endfor %}
     </ul>
+
+</section>
+
+<section style="border: 0px solid #FFF; padding: 1px; margin: 1px;">
+
+  {% assign organizations = site.data.organizations | sort: 'label' %}
+  <div id="organizationcloud" class="wordcloud">
+    {% for topic in organizations %}
+      {% if organization.paths > 2000 %}
+        {% assign path_value = 10 %}
+      {% endif %}
+      {% if organization.paths > 1500 and organization.paths < 2000 %}
+        {% assign path_value = 9 %}
+      {% endif %}
+      {% if organization.paths > 1000 and organization.paths < %}
+        {% assign path_value = 8 %}
+      {% endif %}
+      {% if organization.paths > 750 and organization.paths < 1000 %}
+        {% assign path_value = 7 %}
+      {% endif %}
+      {% if organization.paths > 500 and organization.paths < 750 %}
+        {% assign path_value = 6 %}
+      {% endif %}
+      {% if organization.paths > 250 and organization.paths < 500 %}
+        {% assign path_value = 5 %}
+      {% endif %}
+      {% if organization.paths > 100 and organization.paths < 250 %}
+        {% assign path_value = 4 %}
+      {% endif %}
+      {% if organization.paths < 100 %}
+        {% assign path_value = 3 %}
+      {% endif %}
+      <span data-weight="{{ path_value }}">
+        <a href="{{ organization.url }}" target="_blank">{{ organizations.label }}</a>
+      </span>
+    {% endfor %}
+  </div>
+
+  <script>
+  $(document).ready(function(){
+      $("#organizationcloud").awesomeCloud({
+        "size" : {
+          "grid" : 14, // word spacing, smaller is more tightly packed
+          "factor" : 20, // font resize factor, 0 means automatic
+          "normalize" : false // reduces outliers for more attractive output
+        },
+        "color" : {
+          "background" : "rgba(255,255,255,0)", // background color, transparent by default
+          "start" : "#20f", // color of the smallest font, if options.color = "gradient""
+          "end" : "rgb(200,0,0)" // color of the largest font, if options.color = "gradient"
+        },
+        "options" : {
+          "color" : "random-dark", // random-light, random-dark, gradient
+          "rotationRatio" : 0, // 0 is all horizontal, 1 is all vertical
+          "printMultiplier" : 3, // set to 3 for nice printer output; higher numbers take longer
+          "sort" : "highest" // highest, lowest or random
+        },
+        "font" : "'Times New Roman'", //  the CSS font-family string
+        "shape" : "square" // circle, square, star or a theta function describing a shape
+      });
+  });
+  </script>
 
 </section>
 
