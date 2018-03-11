@@ -10,35 +10,35 @@ title: Streamdata.io API Gallery
 
 <section style="border: 0px solid #FFF; padding: 1px; margin: 1px;">
 
-  {% assign navigation = site.data.navigation | sort: 'label' %}
+  {% assign topics = site.data.topics | sort: 'label' %}
   <div id="gallerycloud" class="wordcloud">
-    {% for nav in navigation %}
-      {% if nav.paths > 2000 %}
+    {% for topic in topics %}
+      {% if topic.paths > 2000 %}
         {% assign path_value = 10 %}
       {% endif %}
-      {% if nav.paths > 1500 and nav.paths < 2000 %}
+      {% if topic.paths > 1500 and topic.paths < 2000 %}
         {% assign path_value = 9 %}
       {% endif %}
-      {% if nav.paths > 1000 and nav.paths < %}
+      {% if topic.paths > 1000 and topic.paths < %}
         {% assign path_value = 8 %}
       {% endif %}
-      {% if nav.paths > 750 and nav.paths < 1000 %}
+      {% if topic.paths > 750 and topic.paths < 1000 %}
         {% assign path_value = 7 %}
       {% endif %}
-      {% if nav.paths > 500 and nav.paths < 750 %}
+      {% if topic.paths > 500 and topic.paths < 750 %}
         {% assign path_value = 6 %}
       {% endif %}
-      {% if nav.paths > 250 and nav.paths < 500 %}
+      {% if topic.paths > 250 and topic.paths < 500 %}
         {% assign path_value = 5 %}
       {% endif %}
-      {% if nav.paths > 100 and nav.paths < 250 %}
+      {% if topic.paths > 100 and topic.paths < 250 %}
         {% assign path_value = 4 %}
       {% endif %}
-      {% if nav.paths < 100 %}
+      {% if topic.paths < 100 %}
         {% assign path_value = 3 %}
       {% endif %}
       <span data-weight="{{ path_value }}">
-        <a href="{{ nav.url }}" target="_blank">{{ nav.label }}</a>
+        <a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a>
       </span>
     {% endfor %}
   </div>
@@ -69,6 +69,20 @@ title: Streamdata.io API Gallery
   </script>
 
 </section>
+
+<section style="border: 0px solid #FFF; padding: 1px; margin: 1px;">
+
+  <div id="gallerycloud" class="wordcloud">
+    <ul>
+      {% for topic in topics %}
+        <li><a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+
+</section>
+
 <div class="submitApi__overflowContainer" data-submit-api="">
    <div class="submitApi submitApi--left-hand-image">
 

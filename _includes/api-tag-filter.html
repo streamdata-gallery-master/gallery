@@ -4,9 +4,9 @@
      <form>
      <strong>Filter By:</strong>
      <select name="filter" id="tagfilter">
-     {% assign navigation = site.data.navigation | sort: 'label' %}
-     {% for nav in navigation %}}
-         <option value="https://streamdata-gallery.github.io/apis/{{ nav.slug }}/apis/"{% if nav.slug == tag_slug %} selected{% endif %}>{{ nav.label }}</option>
+     {% assign topics = site.data.topics | sort: 'label' %}
+     {% for topic in topics %}}
+         <option value="https://streamdata-gallery.github.io/apis/{{ topic.slug }}/apis/"{% if topic.slug == tag_slug %} selected{% endif %}>{{ topic.label }}</option>
     {% endfor %}
      </select>
      <input type="button" onclick="filterbytag();" name="filter_by" value="Go" />
