@@ -3,6 +3,28 @@ layout: default
 title: Streamdata.io API Gallery
 ---
 
+<style>
+  .center {
+      margin: auto;
+      width: 50%;
+      border: 3px solid green;
+      padding: 10px;
+  }
+  ul{
+    width:760px;
+    overflow:hidden;
+  }
+  li{
+    line-height:1.5em;
+    float:left;
+    display:inline;
+  }
+  #double li  { width:50%;}
+  #triple li  { width:33.333%; }
+  #quad li    { width:25%; }
+  #six li     { width:16.666%; }
+</style>
+
 <div class="shortMasthead  shortMasthead--extra-top-padding ">
   <h1 class="shortMasthead__headline enterAnimation enterAnimation--active" data-enter-animation="">{{ page.title }}</h1>
   <p align="center"><strong>541 organizations with 23,420 API paths</strong></p>
@@ -70,30 +92,16 @@ title: Streamdata.io API Gallery
 
 </section>
 
-<style>
-  ul{
-    width:760px;
-    overflow:hidden;
-  }
-  li{
-    line-height:1.5em;
-    float:left;
-    display:inline;
-  }
-  #double li  { width:50%;}
-  #triple li  { width:33.333%; }
-  #quad li    { width:25%; }
-  #six li     { width:16.666%; }
-</style>
-
 <div class="submitApi__overflowContainer" data-submit-api="">
 
+  <div class="center">
     <h1>Topics</h1>
     <ul id="double">
       {% for topic in topics %}
         <li><a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
       {% endfor %}
     </ul>
+  </center>
 
 </div>
 
@@ -161,6 +169,7 @@ title: Streamdata.io API Gallery
 
 <div class="submitApi__overflowContainer" data-submit-api="">
 
+  <div class="center">
   <h1>Organizations</h1>
   {% assign organizations = site.data.organizations | sort: 'label' %}
   <ul id="double">
@@ -168,6 +177,7 @@ title: Streamdata.io API Gallery
       <li><a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
     {% endfor %}
   </ul>
+  </center>
 
 </div>
 
