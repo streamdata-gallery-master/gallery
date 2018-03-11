@@ -25,12 +25,30 @@ title: Streamdata.io API Gallery
   #six li     { width:16.666%; }
 </style>
 
+<script>
+  function displayLayout($topiccloud,$toplist,$orgcloud,$orglist)
+    {
+    document.getElementById("topicTagCloud").style=topiccloud;
+    document.getElementById("topicList").style=topiccloud;
+    document.getElementById("orgTagCloud").style=topiccloud;
+    document.getElementById("orgList").style=topiccloud;
+    }
+</script>
+
 <div class="shortMasthead  shortMasthead--extra-top-padding ">
   <h1 class="shortMasthead__headline enterAnimation enterAnimation--active" data-enter-animation="">{{ page.title }}</h1>
   <p align="center"><strong>541 organizations with 23,420 API paths</strong></p>
 </div>
 
-<section style="border: 0px solid #FFF; padding: 1px; margin: 1px;">
+<table border="0" style="margin-bottom:25px;">
+  <tr>
+    <td colspan="3" align="center">
+      <a href="#" onclick="displayLayout('','none','none','none');"><strong>Topic Tag Cloud</strong></a> | <a href="#" onclick="displayLayout('none','','none','none');"><strong>Topics List</strong></a><a href="#" onclick="displayLayout('none','none','','none');"><strong>Organization Tag Cloud</strong></a> | <a href="#" onclick="displayLayout('none','none','none','');"><strong>Organization List</strong></a>
+    </td>
+  </tr>
+</table>
+
+<section style="border: 0px solid #FFF; padding: 1px; margin: 1px;" id="topicTagCloud">
 
   {% assign topics = site.data.topics | sort: 'label' %}
   <div id="topiccloud" class="wordcloud">
@@ -92,7 +110,7 @@ title: Streamdata.io API Gallery
 
 </section>
 
-<div class="submitApi__overflowContainer" data-submit-api="">
+<div class="submitApi__overflowContainer" data-submit-api="" id="topicList" style="display: none;">
 
   <div class="center">
     <h1>APIs by Topics</h1>
@@ -105,7 +123,7 @@ title: Streamdata.io API Gallery
 
 </div>
 
-<section style="border: 0px solid #FFF; padding: 1px; margin: 1px;">
+<section style="border: 0px solid #FFF; padding: 1px; margin: 1px; display: none;" id="orgTagCloud">
 
   {% assign organizations = site.data.organizations | sort: 'label' %}
   <div id="organizationcloud" class="wordcloud">
@@ -167,7 +185,7 @@ title: Streamdata.io API Gallery
 
 </section>
 
-<div class="submitApi__overflowContainer" data-submit-api="">
+<div class="submitApi__overflowContainer" data-submit-api="" id="orgList" style="display: none;">
 
   <div class="center">
   <h1>APIs by Organizations</h1>
