@@ -101,7 +101,7 @@ title: Streamdata.io API Gallery
 
   {% assign organizations = site.data.organizations | sort: 'label' %}
   <div id="organizationcloud" class="wordcloud">
-    {% for topic in organizations %}
+    {% for organization in organizations %}
       {% if organization.paths > 2000 %}
         {% assign path_value = 10 %}
       {% endif %}
