@@ -73,13 +73,10 @@ title: Streamdata.io API Gallery
 <style>
   ul{
     width:760px;
-    margin-bottom:20px;
     overflow:hidden;
-    border-top:1px solid #ccc;
   }
   li{
     line-height:1.5em;
-    border-bottom:1px solid #ccc;
     float:left;
     display:inline;
   }
@@ -89,8 +86,9 @@ title: Streamdata.io API Gallery
   #six li     { width:16.666%; }
 </style>
 
-<section style="border: 0px solid #FFF; padding: 1px; margin: 1px;">
+<section style="padding: 25px;">
 
+    <h1>Topics</h1>
     <ul id="triple">
       {% for topic in topics %}
         <li><a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
@@ -99,8 +97,9 @@ title: Streamdata.io API Gallery
 
 </section>
 
-<section style="border: 0px solid #FFF; padding: 1px; margin: 1px;">
+<section style="padding: 25px;">
 
+  <h1>Organizations</h1>
   {% assign organizations = site.data.organizations | sort: 'label' %}
   <ul id="triple">
     {% for organization in organizations %}
