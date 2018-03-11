@@ -98,11 +98,11 @@ title: Streamdata.io API Gallery
         <li><a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
       {% endfor %}
     </ul>
-  </center>
+  </div>
 
 </div>
 
-<section style="border: 1px solid #FFF; padding: 1px; margin: 1px;" id="orgTagCloud">
+<section style="border: 1px solid #FFF; padding: 1px; margin: 1px; display: none;" id="orgTagCloud">
 
   {% assign organizations = site.data.organizations | sort: 'label' %}
   <div id="organizationcloud" class="wordcloud">
@@ -139,17 +139,17 @@ title: Streamdata.io API Gallery
 
 </section>
 
-<div class="submitApi__overflowContainer" data-submit-api="" id="orgList">
+<div class="submitApi__overflowContainer" data-submit-api="" id="orgList" style="display: none;">
 
   <div class="center">
-  <h1>APIs by Organizations</h1>
-  {% assign organizations = site.data.organizations | sort: 'label' %}
-  <ul id="double" style="padding-top: 10px;">
-    {% for organization in organizations %}
-      <li><a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
-    {% endfor %}
-  </ul>
-  </center>
+    <h1>APIs by Organizations</h1>
+    {% assign organizations = site.data.organizations | sort: 'label' %}
+    <ul id="double" style="padding-top: 10px;">
+      {% for organization in organizations %}
+        <li><a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
 
 </div>
 
