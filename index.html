@@ -93,7 +93,7 @@ title: Streamdata.io API Gallery
 
   <div class="center">
     <h1>APIs by Topics</h1>
-    <ul id="triple" style="padding-top: 10px;">
+    <ul id="triple" style="padding-top: 10px; padding-left: 20px;">
       {% for topic in topics %}
         <li>&rarr; <a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
       {% endfor %}
@@ -144,7 +144,7 @@ title: Streamdata.io API Gallery
   <div class="center">
     <h1>APIs by Organizations</h1>
     {% assign organizations = site.data.organizations | sort: 'label' %}
-    <ul id="double" style="padding-top: 10px;">
+    <ul id="double" style="padding-top: 10px; padding-left: 20px;">
       {% for organization in organizations %}
         <li>&rarr; <a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
       {% endfor %}
