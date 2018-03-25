@@ -443,6 +443,12 @@
   image: aws-xray.png
   description: The gallery section containing AWS X-Ray APIs.
   paths: 6
+- label: AXA Assistance
+  slug: axa-assistance
+  url: http://axa.assistance.api.gallery.streamdata.io
+  image: axa-assistance.png
+  description: The gallery section containing AXA Assistance APIs.
+  paths: 111
 - label: Azure Advisor
   slug: azure-advisor
   url: http://azure.advisor.api.gallery.streamdata.io
@@ -683,6 +689,12 @@
   image: bank-of-scotland.png
   description: The gallery section containing Bank of Scotland APIs.
   paths: 6
+- label: BetterDoctor
+  slug: betterdoctor
+  url: http://betterdoctor.api.gallery.streamdata.io
+  image: betterdoctor.png
+  description: The gallery section containing BetterDoctor APIs.
+  paths: 17
 - label: Bitbucket
   slug: bitbucket
   url: http://bitbucket.api.gallery.streamdata.io
@@ -1298,6 +1310,12 @@
   image: halifax-bank.png
   description: The gallery section containing Halifax Bank APIs.
   paths: 3
+- label: Healthcare.gov
+  slug: healthcaregov
+  url: http://healthcaregov.api.gallery.streamdata.io
+  image: healthcaregov.png
+  description: The gallery section containing Healthcare.gov APIs.
+  paths: 16
 - label: Heroku
   slug: heroku
   url: http://heroku.api.gallery.streamdata.io
@@ -1477,7 +1495,7 @@
   url: http://postmark.api.gallery.streamdata.io
   image: postmark.png
   description: The gallery section containing Postmark APIs.
-  paths: 354
+  paths: 98
 - label: Quandl
   slug: quandl
   url: http://quandl.api.gallery.streamdata.io
@@ -1603,7 +1621,7 @@
   url: http://twitter.api.gallery.streamdata.io
   image: twitter.png
   description: The gallery section containing Twitter APIs.
-  paths: 330
+  paths: 74
 - label: Tyk
   slug: tyk
   url: http://tyk.api.gallery.streamdata.io
@@ -1641,6 +1659,12 @@
   image: usajobs-api.png
   description: The gallery section containing USAJobs API APIs.
   paths: 1
+- label: VersaPay
+  slug: versapay
+  url: http://versapay.api.gallery.streamdata.io
+  image: versapay.png
+  description: The gallery section containing VersaPay APIs.
+  paths: 25
 - label: Weather Underground
   slug: weather-underground
   url: http://weather.underground.api.gallery.streamdata.io

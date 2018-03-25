@@ -40,7 +40,7 @@
   url: http://agreements.api.gallery.streamdata.io
   image: agreements.png
   description: The gallery section containing Agreements API providers.
-  paths: 4
+  paths: 12
 - label: Airlines
   slug: airlines
   url: http://airlines.api.gallery.streamdata.io
@@ -70,7 +70,7 @@
   url: http://alerts.api.gallery.streamdata.io
   image: alerts.png
   description: The gallery section containing Alerts API providers.
-  paths: 53
+  paths: 54
 - label: Aliases
   slug: aliases
   url: http://aliases.api.gallery.streamdata.io
@@ -113,6 +113,12 @@
   image: archives.png
   description: The gallery section containing Archives API providers.
   paths: 17
+- label: Articles
+  slug: articles
+  url: http://articles.api.gallery.streamdata.io
+  image: articles.png
+  description: The gallery section containing Articles API providers.
+  paths: 1
 - label: Artifacts
   slug: artifacts
   url: http://artifacts.api.gallery.streamdata.io
@@ -268,7 +274,7 @@
   url: http://batches.api.gallery.streamdata.io
   image: batches.png
   description: The gallery section containing Batches API providers.
-  paths: 8
+  paths: 11
 - label: Billing
   slug: billing
   url: http://billing.api.gallery.streamdata.io
@@ -310,7 +316,7 @@
   url: http://bounces.api.gallery.streamdata.io
   image: bounces.png
   description: The gallery section containing Bounces API providers.
-  paths: 4
+  paths: 6
 - label: Branches
   slug: branches
   url: http://branches.api.gallery.streamdata.io
@@ -448,7 +454,7 @@
   url: http://channels.api.gallery.streamdata.io
   image: channels.png
   description: The gallery section containing Channels API providers.
-  paths: 53
+  paths: 54
 - label: Charges
   slug: charges
   url: http://charges.api.gallery.streamdata.io
@@ -574,7 +580,7 @@
   url: http://complete.api.gallery.streamdata.io
   image: complete.png
   description: The gallery section containing Complete API providers.
-  paths: 7
+  paths: 9
 - label: Compliance
   slug: compliance
   url: http://compliance.api.gallery.streamdata.io
@@ -694,7 +700,7 @@
   url: http://corporate.api.gallery.streamdata.io
   image: corporate.png
   description: The gallery section containing Corporate API providers.
-  paths: 4
+  paths: 5
 - label: Costs
   slug: costs
   url: http://costs.api.gallery.streamdata.io
@@ -706,7 +712,7 @@
   url: http://countries.api.gallery.streamdata.io
   image: countries.png
   description: The gallery section containing Countries API providers.
-  paths: 3
+  paths: 4
 - label: Coupons
   slug: coupons
   url: http://coupons.api.gallery.streamdata.io
@@ -724,13 +730,13 @@
   url: http://criteria.api.gallery.streamdata.io
   image: criteria.png
   description: The gallery section containing Criteria API providers.
-  paths: 1
+  paths: 4
 - label: CSV
   slug: csv
   url: http://csv.api.gallery.streamdata.io
   image: csv.png
   description: The gallery section containing CSV API providers.
-  paths: 5
+  paths: 6
 - label: Currencies
   slug: currencies
   url: http://currencies.api.gallery.streamdata.io
@@ -742,7 +748,7 @@
   url: http://custom.api.gallery.streamdata.io
   image: custom.png
   description: The gallery section containing Custom API providers.
-  paths: 108
+  paths: 110
 - label: Customers
   slug: customers
   url: http://customers.api.gallery.streamdata.io
@@ -832,7 +838,7 @@
   url: http://details.api.gallery.streamdata.io
   image: details.png
   description: The gallery section containing Details API providers.
-  paths: 8
+  paths: 14
 - label: Devices
   slug: devices
   url: http://devices.api.gallery.streamdata.io
@@ -874,7 +880,7 @@
   url: http://disputes.api.gallery.streamdata.io
   image: disputes.png
   description: The gallery section containing Disputes API providers.
-  paths: 4
+  paths: 5
 - label: Distribution
   slug: distribution
   url: http://distribution.api.gallery.streamdata.io
@@ -946,7 +952,7 @@
   url: http://emails.api.gallery.streamdata.io
   image: emails.png
   description: The gallery section containing Emails API providers.
-  paths: 11
+  paths: 15
 - label: Emojis
   slug: emojis
   url: http://emojis.api.gallery.streamdata.io
@@ -1114,7 +1120,7 @@
   url: http://files.api.gallery.streamdata.io
   image: files.png
   description: The gallery section containing Files API providers.
-  paths: 71
+  paths: 67
 - label: Financial
   slug: financial
   url: http://financial.api.gallery.streamdata.io
@@ -1240,7 +1246,7 @@
   url: http://incidents.api.gallery.streamdata.io
   image: incidents.png
   description: The gallery section containing Incidents API providers.
-  paths: 14
+  paths: 12
 - label: Indices
   slug: indices
   url: http://indices.api.gallery.streamdata.io
@@ -1259,6 +1265,12 @@
   image: instances.png
   description: The gallery section containing Instances API providers.
   paths: 139
+- label: Insurance
+  slug: insurance
+  url: http://insurance.api.gallery.streamdata.io
+  image: insurance.png
+  description: The gallery section containing Insurance API providers.
+  paths: 128
 - label: Integrations
   slug: integrations
   url: http://integrations.api.gallery.streamdata.io
@@ -1282,7 +1294,7 @@
   url: http://issues.api.gallery.streamdata.io
   image: issues.png
   description: The gallery section containing Issues API providers.
-  paths: 53
+  paths: 55
 - label: Jobs
   slug: jobs
   url: http://jobs.api.gallery.streamdata.io
@@ -1324,7 +1336,7 @@
   url: http://links.api.gallery.streamdata.io
   image: links.png
   description: The gallery section containing Links API providers.
-  paths: 22
+  paths: 24
 - label: Lists
   slug: lists
   url: http://lists.api.gallery.streamdata.io
@@ -1384,7 +1396,7 @@
   url: http://media.api.gallery.streamdata.io
   image: media.png
   description: The gallery section containing Media API providers.
-  paths: 88
+  paths: 104
 - label: Members
   slug: members
   url: http://members.api.gallery.streamdata.io
@@ -1552,7 +1564,7 @@
   url: http://payments.api.gallery.streamdata.io
   image: payments.png
   description: The gallery section containing Payments API providers.
-  paths: 44
+  paths: 45
 - label: People
   slug: people
   url: http://people.api.gallery.streamdata.io
@@ -1654,7 +1666,7 @@
   url: http://providers.api.gallery.streamdata.io
   image: providers.png
   description: The gallery section containing Providers API providers.
-  paths: 29
+  paths: 31
 - label: Purchases
   slug: purchases
   url: http://purchases.api.gallery.streamdata.io
@@ -1678,7 +1690,7 @@
   url: http://rates.api.gallery.streamdata.io
   image: rates.png
   description: The gallery section containing Rates API providers.
-  paths: 35
+  paths: 37
 - label: Real Time
   slug: real-time
   url: http://real.time.api.gallery.streamdata.io
@@ -1690,7 +1702,7 @@
   url: http://recipients.api.gallery.streamdata.io
   image: recipients.png
   description: The gallery section containing Recipients API providers.
-  paths: 20
+  paths: 22
 - label: Recommendations
   slug: recommendations
   url: http://recommendations.api.gallery.streamdata.io
@@ -1738,7 +1750,7 @@
   url: http://reports.api.gallery.streamdata.io
   image: reports.png
   description: The gallery section containing Reports API providers.
-  paths: 36
+  paths: 37
 - label: Repos
   slug: repos
   url: http://repos.api.gallery.streamdata.io
@@ -1798,13 +1810,13 @@
   url: http://rules.api.gallery.streamdata.io
   image: rules.png
   description: The gallery section containing Rules API providers.
-  paths: 81
+  paths: 77
 - label: Sales
   slug: sales
   url: http://sales.api.gallery.streamdata.io
   image: sales.png
   description: The gallery section containing Sales API providers.
-  paths: 4
+  paths: 6
 - label: Samples
   slug: samples
   url: http://samples.api.gallery.streamdata.io
@@ -1834,7 +1846,7 @@
   url: http://search.api.gallery.streamdata.io
   image: search.png
   description: The gallery section containing Search API providers.
-  paths: 96
+  paths: 107
 - label: Securities
   slug: securities
   url: http://securities.api.gallery.streamdata.io
@@ -1846,7 +1858,7 @@
   url: http://security.api.gallery.streamdata.io
   image: security.png
   description: The gallery section containing Security API providers.
-  paths: 77
+  paths: 78
 - label: Segments
   slug: segments
   url: http://segments.api.gallery.streamdata.io
@@ -1948,7 +1960,7 @@
   url: http://sources.api.gallery.streamdata.io
   image: sources.png
   description: The gallery section containing Sources API providers.
-  paths: 71
+  paths: 72
 - label: Speech
   slug: speech
   url: http://speech.api.gallery.streamdata.io
@@ -1978,7 +1990,7 @@
   url: http://states.api.gallery.streamdata.io
   image: states.png
   description: The gallery section containing States API providers.
-  paths: 2
+  paths: 3
 - label: Stations
   slug: stations
   url: http://stations.api.gallery.streamdata.io
@@ -2134,7 +2146,7 @@
   url: http://topics.api.gallery.streamdata.io
   image: topics.png
   description: The gallery section containing Topics API providers.
-  paths: 31
+  paths: 32
 - label: Tracks
   slug: tracks
   url: http://tracks.api.gallery.streamdata.io
@@ -2164,7 +2176,7 @@
   url: http://transactions.api.gallery.streamdata.io
   image: transactions.png
   description: The gallery section containing Transactions API providers.
-  paths: 14
+  paths: 19
 - label: Transcriptions
   slug: transcriptions
   url: http://transcriptions.api.gallery.streamdata.io
@@ -2194,7 +2206,7 @@
   url: http://travel.api.gallery.streamdata.io
   image: travel.png
   description: The gallery section containing Travel API providers.
-  paths: 57
+  paths: 62
 - label: Trees
   slug: trees
   url: http://trees.api.gallery.streamdata.io
@@ -2236,7 +2248,7 @@
   url: http://uri.api.gallery.streamdata.io
   image: uri.png
   description: The gallery section containing URI API providers.
-  paths: 86
+  paths: 87
 - label: URL
   slug: url
   url: http://url.api.gallery.streamdata.io
@@ -2248,13 +2260,13 @@
   url: http://users.api.gallery.streamdata.io
   image: users.png
   description: The gallery section containing Users API providers.
-  paths: 265
+  paths: 284
 - label: Validation
   slug: validation
   url: http://validation.api.gallery.streamdata.io
   image: validation.png
   description: The gallery section containing Validation API providers.
-  paths: 5
+  paths: 10
 - label: Valuations
   slug: valuations
   url: http://valuations.api.gallery.streamdata.io
