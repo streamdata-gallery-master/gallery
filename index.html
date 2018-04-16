@@ -2,7 +2,7 @@
 layout: default
 title: Streamdata.io API Gallery
 ---
-11
+22
 <style>
   .center {
       margin: auto;
@@ -110,57 +110,6 @@ title: Streamdata.io API Gallery
     <ul id="triple" style="padding-top: 10px; padding-left: 20px;">
       {% for topic in topics %}
         <li>&rarr; <a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-
-</div>
-
-<section style="border: 1px solid #FFF; padding: 1px; margin: 1px;" id="orgTagCloud">
-
-  {% assign organizations = site.data.organizations | sort: 'label' %}
-  <div id="organizationcloud" class="wordcloud">
-    {% for organization in organizations %}
-      {% if organization.paths > 2000 %}
-        {% assign path_value = 10 %}
-      {% endif %}
-      {% if organization.paths > 1500 and organization.paths < 2000 %}
-        {% assign path_value = 9 %}
-      {% endif %}
-      {% if organization.paths > 1000 and organization.paths < %}
-        {% assign path_value = 8 %}
-      {% endif %}
-      {% if organization.paths > 750 and organization.paths < 1000 %}
-        {% assign path_value = 7 %}
-      {% endif %}
-      {% if organization.paths > 500 and organization.paths < 750 %}
-        {% assign path_value = 6 %}
-      {% endif %}
-      {% if organization.paths > 250 and organization.paths < 500 %}
-        {% assign path_value = 5 %}
-      {% endif %}
-      {% if organization.paths > 100 and organization.paths < 250 %}
-        {% assign path_value = 4 %}
-      {% endif %}
-      {% if organization.paths < 100 %}
-        {% assign path_value = 3 %}
-      {% endif %}
-      <span data-weight="{{ path_value }}">
-        <a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a>
-      </span>
-    {% endfor %}
-  </div>
-
-</section>
-
-<div id="orgList" style="display: none;">
-
-  <div class="center">
-    <h1>APIs by Entity</h1>
-    {% assign organizations = site.data.organizations | sort: 'label' %}
-    <ul id="double" style="padding-top: 10px; padding-left: 20px;">
-      {% for organization in organizations %}
-        <li>&rarr; <a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
       {% endfor %}
     </ul>
   </div>
