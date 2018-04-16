@@ -2,7 +2,7 @@
 layout: default
 title: Streamdata.io API Gallery
 ---
-
+11
 <style>
   .center {
       margin: auto;
@@ -28,10 +28,6 @@ title: Streamdata.io API Gallery
 <script>
   function displayLayout($topiccloud,$topiclist,$orgcloud,$orglist)
     {
-    console.log($topiccloud);
-    console.log($topiclist);
-    console.log($orgcloud);
-    console.log($orglist);
     document.getElementById("topicTagCloud").style.display=$topiccloud;
     document.getElementById("topicList").style.display=$topiclist;
     document.getElementById("orgTagCloud").style.display=$orgcloud;
@@ -57,7 +53,7 @@ title: Streamdata.io API Gallery
   {% assign org_count = org_count | plus: 1 %}
 {% endfor %}
 
-<div class="shortMasthead  shortMasthead--extra-top-padding ">
+<div class="shortMasthead  shortMasthead--extra-top-padding">
   <h1 class="shortMasthead__headline enterAnimation enterAnimation--active" data-enter-animation="">{{ page.title }}</h1>
   <p align="center"><strong>{{ org_count }} entities with {{ path_count }} API paths spanning {{ topic_count }} topics</strong></p>
 </div>
@@ -171,13 +167,6 @@ title: Streamdata.io API Gallery
 
 </div>
 
-<div class="submitApi__overflowContainer" data-submit-api="">
-   <div class="submitApi submitApi--left-hand-image">
-
-     {% include api-listing-submit.html %}
-
-   </div>
-</div>
 
 <script>
 
