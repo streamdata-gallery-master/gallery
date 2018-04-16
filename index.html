@@ -2,38 +2,7 @@
 layout: default
 title: Streamdata.io API Gallery
 ---
-33
-<style>
-  .center {
-      margin: auto;
-      width: 50%;
-      border: 0px solid #FFF;
-      padding: 10px;
-  }
-  ul{
-    width:760px;
-    overflow:hidden;
-  }
-  li{
-    line-height:1.5em;
-    float:left;
-    display:inline;
-  }
-  #double li  { width:50%;}
-  #triple li  { width:33.333%; }
-  #quad li    { width:25%; }
-  #six li     { width:16.666%; }
-</style>
-
-<script>
-  function displayLayout($topiccloud,$topiclist,$orgcloud,$orglist)
-    {
-    document.getElementById("topicTagCloud").style.display=$topiccloud;
-    document.getElementById("topicList").style.display=$topiclist;
-    document.getElementById("orgTagCloud").style.display=$orgcloud;
-    document.getElementById("orgList").style.display=$orglist;
-    }
-</script>
+44
 
 {% assign path_count = 0 %}
 {% assign topics = site.data.topics | sort: 'label' %}
