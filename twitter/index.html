@@ -34,7 +34,7 @@ title: Streamdata.io API Gallery Twitter
     <ul id="double" style="padding-top: 10px; padding-left: 20px;">
       {% for organization in organizations %}
         {% assign handle = organization.twitter_url | replace: 'https://twitter.com/','' %}
-        <li>&rarr; {{ organization.label }} (<a href="{{ organization.twitter_url }}" target="_blank">@{{ handle }})</li>
+        <li>&rarr; {{ organization.label }} (<a href="{{ organization.twitter_url }}" target="_blank">@{{ handle }}</a>)</li>
       {% endfor %}
     </ul>
   </div>
