@@ -3,6 +3,42 @@ layout: default
 title: Streamdata.io API Gallery
 ---
 
+<style>
+
+  .organizationlisting {
+    width:100%;
+    height: 350px;
+    overflow:hidden;
+  }
+
+  .organizationlisting ul{
+
+  }
+  .topiclisting ul li{
+    line-height:1.5em;
+    float:left;
+    display:inline;
+  }
+
+  .organizationlisting {
+    width:100%;
+    height: 350px;
+    overflow:hidden;
+  }
+  .organizationlisting ul{
+  }
+  .organizationlisting ul li{
+    line-height:1.5em;
+    float:left;
+    display:inline;
+  }
+
+  #double li  { width:50%;}
+  #triple li  { width:33.333%; }
+  #quad li    { width:25%; }
+  #six li     { width:16.666%; }
+</style>
+
 {% assign path_count = 0 %}
 {% assign topics = site.data.topics | sort: 'label' %}
 {% for topic in topics %}
@@ -29,8 +65,8 @@ title: Streamdata.io API Gallery
         <h2 class="imageMasthead__subheading enterAnimation" data-enter-animation>OpenAPI-Driven API Catalog</h2>
         <div class="imageMasthead__body enterAnimation" data-enter-animation>
 
-          <div style="height: 400px; overflow: auto;">
-            <ul style="padding-top: 10px; padding-left: 20px;">
+          <div class="topiclisting">
+            <ul id="double" style="padding-top: 10px; padding-left: 20px;">
               {% for topic in topics %}
                 <li>&rarr; <a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
               {% endfor %}
@@ -113,9 +149,9 @@ title: Streamdata.io API Gallery
         <h2 class="imageMasthead__subheading enterAnimation" data-enter-animation>OpenAPI-Driven API Catalog</h2>
         <div class="imageMasthead__body enterAnimation" data-enter-animation>
 
-          <div style="height: 400px; overflow: auto;">
+          <div class="organizationlisting">
             {% assign organizations = site.data.organizations | sort: 'label' %}
-            <ul id="double" style="padding-top: 10px; padding-left: 20px;">
+            <ul style="padding-top: 10px; padding-left: 20px;">
               {% for organization in organizations %}
                 <li>&rarr; <a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
               {% endfor %}
