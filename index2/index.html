@@ -3,28 +3,6 @@ layout: default
 title: Streamdata.io API Gallery
 ---
 
-<style>
-  .topiccenter {
-      margin: auto;
-      width: 50%;
-      border: 0px solid #FFF;
-      padding: 10px;
-  }
-  .topiccenter ul{
-    width:760px;
-    overflow:hidden;
-  }
-  .topiccenter ul li{
-    line-height:1.5em;
-    float:left;
-    display:inline;
-  }
-  #double li  { width:50%;}
-  #triple li  { width:33.333%; }
-  #quad li    { width:25%; }
-  #six li     { width:16.666%; }
-</style>
-
 {% assign path_count = 0 %}
 {% assign topics = site.data.topics | sort: 'label' %}
 {% for topic in topics %}
@@ -51,17 +29,12 @@ title: Streamdata.io API Gallery
         <h2 class="imageMasthead__subheading enterAnimation" data-enter-animation>OpenAPI-Driven API Catalog</h2>
         <div class="imageMasthead__body enterAnimation" data-enter-animation>
 
-          <div id="topicList">
-
-            <div class="topiccenter">
-              <h1>APIs by Topics</h1>
-              <ul id="triple" style="padding-top: 10px; padding-left: 20px;">
-                {% for topic in topics %}
-                  <li>&rarr; <a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
-                {% endfor %}
-              </ul>
-            </div>
-
+          <div style="height: 400px; overflow: auto;">
+            <ul style="padding-top: 10px; padding-left: 20px;">
+              {% for topic in topics %}
+                <li>&rarr; <a href="{{ topic.url }}" target="_blank">{{ topic.label }}</a></li>
+              {% endfor %}
+            </ul>
           </div>
 
         </div>
@@ -140,18 +113,13 @@ title: Streamdata.io API Gallery
         <h2 class="imageMasthead__subheading enterAnimation" data-enter-animation>OpenAPI-Driven API Catalog</h2>
         <div class="imageMasthead__body enterAnimation" data-enter-animation>
 
-          <div id="orgList">
-
-            <div class="topiccenter">
-              <h1>APIs by Entity</h1>
-              {% assign organizations = site.data.organizations | sort: 'label' %}
-              <ul id="double" style="padding-top: 10px; padding-left: 20px;">
-                {% for organization in organizations %}
-                  <li>&rarr; <a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
-                {% endfor %}
-              </ul>
-            </div>
-
+          <div style="height: 400px; overflow: auto;">
+            {% assign organizations = site.data.organizations | sort: 'label' %}
+            <ul id="double" style="padding-top: 10px; padding-left: 20px;">
+              {% for organization in organizations %}
+                <li>&rarr; <a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
+              {% endfor %}
+            </ul>
           </div>
 
         </div>
