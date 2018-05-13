@@ -54,13 +54,13 @@ title: Streamdata.io API Gallery
 {% for organization in organizations %}
   {% assign org_count = org_count | plus: 1 %}
 {% endfor %}
-
+<br />
 <section class="imageMasthead imageMasthead--content-left">
   <div class="imageMasthead__content-side">
     <div class="imageMasthead__content-container">
       <div class="imageMasthead__content-wrap">
         <h1 class="imageMasthead__heading enterAnimation" data-enter-animation>API Gallery Topics</h1>
-        <h2 class="imageMasthead__subheading enterAnimation" data-enter-animation>OpenAPI-Driven API Catalog</h2>
+        <h2 class="imageMasthead__subheading enterAnimation" data-enter-animation>We've broken down APIs into {{ topic_count }} topics.</h2>
         <div class="imageMasthead__body enterAnimation" data-enter-animation>
 
           <div class="topiclisting">
@@ -70,14 +70,14 @@ title: Streamdata.io API Gallery
               {% endfor %}
             </ul>
           </div>
-
+          <p align="center"><a href="http://topics.api.gallery.streamdata.io/"><strong>View All</a></p>
         </div>
       </div>
     </div>
   </div>
   <div class="imageMasthead__image-side enterAnimation" data-enter-animation>
     <div class="imageMasthead__image-wrap">
-      <img src="/assets/streamdata-api-gallery-topics.png" alt="" class="imageMasthead__image">
+      <a href="http://topics.api.gallery.streamdata.io/"><img src="/assets/streamdata-api-gallery-topics.png" alt="" class="imageMasthead__image"></a>
     </div>
   </div>
 </section>
