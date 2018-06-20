@@ -797,25 +797,6 @@
   image: boxcar.png
   description: The gallery section containing Boxcar APIs.
   paths: 1
-- label: Bureau of Alcohol, Tobacco, Firearms, and Explosives
-  slug: bureau-of-alcohol-tobacco-firearms-and-explosives
-  url: http://bureau.of.alcohol.tobacco.firearms.and.explosives.api.gallery.streamdata.io
-  image: bureau-of-alcohol-tobacco-firearms-and-explosives.png
-  description: The gallery section containing Bureau of Alcohol, Tobacco, Firearms,
-    and Explosives APIs.
-  paths: 14
-- label: Bureau of Economic Analysis
-  slug: bureau-of-economic-analysis
-  url: http://bureau.of.economic.analysis.api.gallery.streamdata.io
-  image: bureau-of-economic-analysis.png
-  description: The gallery section containing Bureau of Economic Analysis APIs.
-  paths: 1
-- label: Bureau of Justice Statistics
-  slug: bureau-of-justice-statistics
-  url: http://bureau.of.justice.statistics.api.gallery.streamdata.io
-  image: bureau-of-justice-statistics.png
-  description: The gallery section containing Bureau of Justice Statistics APIs.
-  paths: 7
 - label: CallFire
   slug: callfire
   url: http://callfire.api.gallery.streamdata.io
