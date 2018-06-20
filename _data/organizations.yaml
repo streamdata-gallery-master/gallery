@@ -863,12 +863,6 @@
   image: coutts.png
   description: The gallery section containing Coutts APIs.
   paths: 1
-- label: Data.Gov
-  slug: data-gov
-  url: http://data.gov.api.gallery.streamdata.io
-  image: data-gov.png
-  description: The gallery section containing Data.Gov APIs.
-  paths: 156
 - label: DataAtWork
   slug: dataatwork
   url: http://dataatwork.api.gallery.streamdata.io
