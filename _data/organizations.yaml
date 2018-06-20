@@ -101,12 +101,6 @@
   image: aspose.png
   description: The gallery section containing Aspose APIs.
   paths: 9
-- label: AT&T Dev Program
-  slug: att-dev-program
-  url: http://att.dev.program.api.gallery.streamdata.io
-  image: att-dev-program.png
-  description: The gallery section containing AT&T Dev Program APIs.
-  paths: 25
 - label: Auth0
   slug: auth0
   url: http://auth0.api.gallery.streamdata.io
