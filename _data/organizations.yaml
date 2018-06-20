@@ -2104,25 +2104,6 @@
   image: victorops.png
   description: The gallery section containing VictorOps APIs.
   paths: 59
-- label: Viddler
-  slug: viddler
-  url: http://viddler.api.gallery.streamdata.io
-  image: viddler.png
-  description: The gallery section containing Viddler APIs.
-  paths: 28
-- label: Vzaar
-  slug: vzaar
-  url: http://vzaar.api.gallery.streamdata.io
-  image: vzaar.png
-  description: The gallery section containing Vzaar APIs.
-  paths: 7
-- label: Washington Metropolitan Area Transit Authority
-  slug: washington-metropolitan-area-transit-authority
-  url: http://washington.metropolitan.area.transit.authority.api.gallery.streamdata.io
-  image: washington-metropolitan-area-transit-authority.png
-  description: The gallery section containing Washington Metropolitan Area Transit
-    Authority APIs.
-  paths: 43
 - label: Watchful
   slug: watchful
   url: http://watchful.api.gallery.streamdata.io
