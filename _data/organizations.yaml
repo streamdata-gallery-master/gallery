@@ -1935,12 +1935,6 @@
   image: stack-exchange.png
   description: The gallery section containing Stack Exchange APIs.
   paths: 124
-- label: StatusPage.io
-  slug: statuspage-io
-  url: http://statuspage.io.api.gallery.streamdata.io
-  image: statuspage-io.png
-  description: The gallery section containing StatusPage.io APIs.
-  paths: 41
 - label: Stocklytics
   slug: stocklytics
   url: http://stocklytics.api.gallery.streamdata.io
@@ -1977,12 +1971,6 @@
   image: sustainable-facilities-tool-api.png
   description: The gallery section containing Sustainable Facilities Tool API APIs.
   paths: 34
-- label: Swagger
-  slug: swagger
-  url: http://swagger.api.gallery.streamdata.io
-  image: swagger.png
-  description: The gallery section containing Swagger APIs.
-  paths: 7
 - label: SwaggerHub
   slug: swaggerhub
   url: http://swaggerhub.api.gallery.streamdata.io
