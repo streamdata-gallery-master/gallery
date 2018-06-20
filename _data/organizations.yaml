@@ -1869,12 +1869,6 @@
   image: salesforce.png
   description: The gallery section containing Salesforce APIs.
   paths: 38
-- label: Salesforce Sandbox
-  slug: salesforce-sandbox
-  url: http://salesforce.sandbox.api.gallery.streamdata.io
-  image: salesforce-sandbox.png
-  description: The gallery section containing Salesforce Sandbox APIs.
-  paths: 24
 - label: Santander Bank
   slug: santander-bank
   url: http://santander.bank.api.gallery.streamdata.io
