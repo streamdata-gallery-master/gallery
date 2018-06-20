@@ -53,11 +53,11 @@
   image: api-science.png
   description: The gallery section containing API Science APIs.
   paths: 23
-- label: Apigee Edge
-  slug: apigee-edge
-  url: http://apigee.edge.api.gallery.streamdata.io
-  image: apigee-edge.png
-  description: The gallery section containing Apigee Edge APIs.
+- label: Apigee
+  slug: apigee
+  url: http://apigee.api.gallery.streamdata.io
+  image: apigee.png
+  description: The gallery section containing Apigee APIs.
   paths: 152
 - label: APIMATIC
   slug: apimatic
@@ -840,12 +840,6 @@
   image: circleci.png
   description: The gallery section containing CircleCI APIs.
   paths: 35
-- label: Clarify
-  slug: clarify
-  url: http://clarify.api.gallery.streamdata.io
-  image: clarify.png
-  description: The gallery section containing Clarify APIs.
-  paths: 21
 - label: Clearbit
   slug: clearbit
   url: http://clearbit.api.gallery.streamdata.io
@@ -1851,12 +1845,6 @@
   image: respoke.png
   description: The gallery section containing Respoke APIs.
   paths: 9
-- label: Reverb
-  slug: reverb
-  url: http://reverb.api.gallery.streamdata.io
-  image: reverb.png
-  description: The gallery section containing Reverb APIs.
-  paths: 182
 - label: Runscope
   slug: runscope
   url: http://runscope.api.gallery.streamdata.io
