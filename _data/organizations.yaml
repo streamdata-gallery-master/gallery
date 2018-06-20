@@ -978,12 +978,6 @@
   image: elastic-email.png
   description: The gallery section containing Elastic Email APIs.
   paths: 17
-- label: eMuseum API docs
-  slug: emuseum-api-docs
-  url: http://emuseum.api.docs.api.gallery.streamdata.io
-  image: emuseum-api-docs.png
-  description: The gallery section containing eMuseum API docs APIs.
-  paths: 8
 - label: Envestnet
   slug: envestnet
   url: http://envestnet.api.gallery.streamdata.io
@@ -2001,12 +1995,6 @@
   image: system-award-management.png
   description: The gallery section containing System Award Management APIs.
   paths: 1
-- label: taxamo
-  slug: taxamo
-  url: http://taxamo.api.gallery.streamdata.io
-  image: taxamo.png
-  description: The gallery section containing taxamo APIs.
-  paths: 36
 - label: TelAPI
   slug: telapi
   url: http://telapi.api.gallery.streamdata.io
@@ -2195,10 +2183,4 @@
   image: zencoder.png
   description: The gallery section containing Zencoder APIs.
   paths: 19
-- label: Zendesk
-  slug: zendesk
-  url: http://zendesk.api.gallery.streamdata.io
-  image: zendesk.png
-  description: The gallery section containing Zendesk APIs.
-  paths: 35
 ...
