@@ -23,11 +23,11 @@ leading_topics:
   - name: Machine Learning APIs
     body: Some machine learning APIs that can be used to augment streaming data APIs.
     url: http://machine.learning.api.gallery.streamdata.io/
-    image: http://api.gallery.streamdata.io/assets/assets/bw-icon-machine-learning.png
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-machine-learning.png
   - name: News APIs
     body: Exploring the available news APIs for turning into real time streams.
     url: http://news.api.gallery.streamdata.io/
-    image: http://api.gallery.streamdata.io/assets/assets/bw-icon-news.png
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png
   - name: Social APIs
     body: Going to the source of social data, and streaming social network APIs.
     url: http://social.api.gallery.streamdata.io/
@@ -52,7 +52,3 @@ leading_topics:
     body: Tuning into blockchain, and the crypocurrency realm using web APIs.
     url: http://blockchain.api.gallery.streamdata.io/
     image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blockchain.png
-  - name: Blogs
-    body: Managing content across popular blogging platforms using APIs.
-    url: http://blogs.api.gallery.streamdata.io/
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png
