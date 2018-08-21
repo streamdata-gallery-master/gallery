@@ -19,7 +19,8 @@ title: Streamdata.io API Gallery - Search
          url: "http://search.api.gallery.stack.network/search-api-gallery.php?query="+search_keywords,
          method: "get",
          success:function(results){
-            console.log(results);
+
+            //console.log(results);
 
             jQuery.each(results, function(rowKey, rowEntry) {
 
@@ -33,7 +34,9 @@ title: Streamdata.io API Gallery - Search
               $html = $html + '<td>' +  company_name + '</td>';
               $html = $html + '</tr>';
 
-              $("#inner").append($html);
+              console.log($html);
+
+              $("#searchlisting").append($html);
 
             });
 
