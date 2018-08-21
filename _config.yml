@@ -15,3 +15,44 @@ defaults:
       type: listings
     values:
       layout: listings
+leading_topics:
+  - name: Market Data APIs
+    body: Sources of market data available via APIs for streaming.
+    url: http://market.data.api.gallery.streamdata.io/
+    image: http://api.gallery.streamdata.io/assets/bw-icon-market-data.png
+  - name: Machine Learning APIs
+    body: Some machine learning APIs that can be used to augment streaming data APIs.
+    url: http://machine.learning.api.gallery.streamdata.io/
+    image: http://api.gallery.streamdata.io/assets/assets/bw-icon-machine-learning.png
+  - name: News APIs
+    body: Exploring the available news APIs for turning into real time streams.
+    url: http://news.api.gallery.streamdata.io/
+    image: http://api.gallery.streamdata.io/assets/assets/bw-icon-news.png
+  - name: Social APIs
+    body: Going to the source of social data, and streaming social network APIs.
+    url: http://social.api.gallery.streamdata.io/
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-social-network.png
+  - name: Weather APIs
+    body: Tuning into the weeather around us and our customers using APIs.
+    url: http://weather.api.gallery.streamdata.io/
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-weather.png
+  - name: Photos APIs
+    body: The photo APIs that are dominating the landscape for storage and delivery.
+    url: http://photos.api.gallery.streamdata.io/
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-photo.png
+  - name: Events APIs
+    body: Tuning into the different types of events APIs are used to deliver upon.
+    url: http://events.api.gallery.streamdata.io/
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-calendar.png
+  - name: Video APIs
+    body: Known where to find and manage videos across a variety of platforms.
+    url: http://videos.api.gallery.streamdata.io/
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-video.png
+  - name: Blockchain APIs
+    body: Tuning into blockchain, and the crypocurrency realm using web APIs.
+    url: http://blockchain.api.gallery.streamdata.io/
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blockchain.png
+  - name: Blogs
+    body: Managing content across popular blogging platforms using APIs.
+    url: http://blogs.api.gallery.streamdata.io/
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png

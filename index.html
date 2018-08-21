@@ -208,67 +208,33 @@ title: Streamdata.io API Gallery
   </div>
 </section>
 
+<!--Leading Topics--->
 <section class="industriesPanel">
   <h2 class="industriesPanel__header">Leading Topics</h2>
   <p class="industriesPanel__body">These are some of the most relevant topics out there for exploring real time opportunities for streaming data.</p>
   <div class="industriesPanel__container">
 
-    <div class="industriesPanel__box enterAnimation" data-enter-animation>
-      <div class="industriesPanel__box-main">
-        <h2 class="industriesPanel__box__header">Market Data APIs</h2>
-        <img class="industriesPanel__box__icon" src="/assets/bw-icon-market-data.png" alt="loan" />
-        <p class="industriesPanel__box__body">Sources of market data available via APIs for streaming.</p>
+    {% assign leading_topics = site.leading_topics | sort: 'label' %}
+    {% for leading_topic in leading_topics %}
+      <div class="industriesPanel__box enterAnimation" data-enter-animation>
+        <div class="industriesPanel__box-main">
+          <h2 class="industriesPanel__box__header">{{ leading_topic.name }}</h2>
+          <img class="industriesPanel__box__icon" src="/assets/bw-icon-market-data.png" alt="{{ leading_topic.name }}" />
+          <p class="industriesPanel__box__body">{{ leading_topic.body }}</p>
+        </div>
+        <div class="industriesPanel__box-blur">
+          <h2 class="industriesPanel__box__header">Market Data APIs</h2>
+          <img class="industriesPanel__box__icon" src="{{ leading_topic.image }}" alt="{{ leading_topic.name }}" />
+          <p class="industriesPanel__box__body">{{ leading_topic.body }}</p>
+        </div>
+        <div class="industries__hoverPanel" style="background: linear-gradient(-134deg, #3023AE 0%, #C86DD7 100%);">
+          <a class="industries__hoverPanelLink" href="{{ leading_topic.url }}">
+            <p class="industries__hoverCopy">View All {{ leading_topic.name }}</p>
+            <span class="industries__hoverLink">Have a look</span>
+          </a>
+        </div>
       </div>
-      <div class="industriesPanel__box-blur">
-        <h2 class="industriesPanel__box__header">Market Data APIs</h2>
-        <img class="industriesPanel__box__icon" src="/assets/bw-icon-market-data.png" alt="loan" />
-        <p class="industriesPanel__box__body">Sources of market data available via APIs for streaming.</p>
-      </div>
-      <div class="industries__hoverPanel" style="background: linear-gradient(-134deg, #3023AE 0%, #C86DD7 100%);">
-        <a class="industries__hoverPanelLink" href="http://market.data.api.gallery.streamdata.io/">
-          <p class="industries__hoverCopy">View All Market Data APIs</p>
-          <span class="industries__hoverLink">Have a look</span>
-        </a>
-      </div>
-    </div>
-
-    <div class="industriesPanel__box enterAnimation" data-enter-animation>
-      <div class="industriesPanel__box-main">
-        <h2 class="industriesPanel__box__header">Machine Learning APIs</h2>
-        <img class="industriesPanel__box__icon" src="/assets/bw-icon-machine-learning.png" alt="loan" />
-        <p class="industriesPanel__box__body">Some machine learning APIs that can be used to augment streaming data APIs.</p>
-      </div>
-      <div class="industriesPanel__box-blur">
-        <h2 class="industriesPanel__box__header">Machine Learning APIs</h2>
-        <img class="industriesPanel__box__icon" src="/assets/bw-icon-machine-learning.png" alt="loan" />
-        <p class="industriesPanel__box__body">Some machine learning APIs that can be used to augment streaming data APIs.</p>
-      </div>
-      <div class="industries__hoverPanel" style="background: linear-gradient(-134deg, #3023AE 0%, #C86DD7 100%);">
-        <a class="industries__hoverPanelLink" href="http://machine.learning.api.gallery.streamdata.io/">
-          <p class="industries__hoverCopy">View All Machine Learning APIs</p>
-          <span class="industries__hoverLink">Have a look</span>
-        </a>
-      </div>
-    </div>
-
-    <div class="industriesPanel__box enterAnimation" data-enter-animation>
-      <div class="industriesPanel__box-main">
-        <h2 class="industriesPanel__box__header">News APIs</h2>
-        <img class="industriesPanel__box__icon" src="/assets/bw-icon-news.png" alt="loan" />
-        <p class="industriesPanel__box__body">Exploring the available news APIs for turningn into real time streams.</p>
-      </div>
-      <div class="industriesPanel__box-blur">
-        <h2 class="industriesPanel__box__header">News APIs</h2>
-        <img class="industriesPanel__box__icon" src="/assets/bw-icon-news.png" alt="loan" />
-        <p class="industriesPanel__box__body">Exploring the available news APIs for turningn into real time streams.</p>
-      </div>
-      <div class="industries__hoverPanel" style="background: linear-gradient(-134deg, #3023AE 0%, #C86DD7 100%);">
-        <a class="industries__hoverPanelLink" href="http://news.api.gallery.streamdata.io/">
-          <p class="industries__hoverCopy">View All News APIs</p>
-          <span class="industries__hoverLink">Have a look</span>
-        </a>
-      </div>
-    </div>
+    {% endfor %}
 
   </div>
 </section>
