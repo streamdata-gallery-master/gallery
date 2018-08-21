@@ -24,13 +24,15 @@ title: Streamdata.io API Gallery - Search
 
             jQuery.each(results, function(rowKey, rowEntry) {
 
+              console.log(rowEntry);
+
               company_name = rowEntry['company_name'];
               path = rowEntry['path'];
               summary = rowEntry['summary'];
               description = rowEntry['description'];
               company_name = rowEntry['gallery_url'];
 
-              $html = '<tr>';
+              var $html = '<tr>';
               $html = $html + '<td>' +  company_name + '</td>';
               $html = $html + '</tr>';
 
