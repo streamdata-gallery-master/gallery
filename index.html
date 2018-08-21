@@ -215,11 +215,12 @@ title: Streamdata.io API Gallery
   <div class="industriesPanel__container">
 
     {% assign leading_topics = site.leading_topics | sort: 'label' %}
+    {% assign topic_toggle = 0 %}
     {% for leading_topic in leading_topics %}
       <div class="industriesPanel__box enterAnimation" data-enter-animation>
         <div class="industriesPanel__box-main">
           <h2 class="industriesPanel__box__header">{{ leading_topic.name }}</h2>
-          <img class="industriesPanel__box__icon" src="/assets/bw-icon-market-data.png" alt="{{ leading_topic.name }}" />
+          <img class="industriesPanel__box__icon" src="{{ leading_topic.image }}" alt="{{ leading_topic.name }}" />
           <p class="industriesPanel__box__body">{{ leading_topic.body }}</p>
         </div>
         <div class="industriesPanel__box-blur">
@@ -234,6 +235,15 @@ title: Streamdata.io API Gallery
           </a>
         </div>
       </div>
+      {% assign topic_toggle = topic_toggle | plus: 1 %}
+
+      {% if topic_toggle == 3 %}
+        </div>
+        <div class="industriesPanel__container">
+        {% assign topic_toggle = 0 %}
+      {% endif %}
+
+      topic_toggle
     {% endfor %}
 
   </div>
