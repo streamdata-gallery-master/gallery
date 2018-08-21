@@ -43,7 +43,7 @@ title: Streamdata.io API Gallery - Search
               $html = $html + '</div>';
               $html = $html + '<div class="taggedLinkCard__lower">';
               $html = $html + '<div class="taggedLinkCard__copy">';
-              $html = $html + '<h3 class="taggedLinkCard__title"><a href="' + gallery_url + '">' + company_name + ' ' + summary + '</a></h3>';
+              $html = $html + '<h3 class="taggedLinkCard__title"><a href="' + gallery_url + '" target=_"_blank">' + company_name + ' ' + summary + '</a></h3>';
               $html = $html + '<p class="taggedLinkCard__body">' + description + '</p>';
               $html = $html + '</div>';
               $html = $html + '</div>';
@@ -67,7 +67,7 @@ title: Streamdata.io API Gallery - Search
   </script>
 
   <center>
-    
+
     <form name="entity-search">
       <input type="text" name="search_keywords" id="search_keywords" value="" width="150">
       <input type="button" name="search_button" value="Search APIs by Keyword " onclick="searchEntities();">
