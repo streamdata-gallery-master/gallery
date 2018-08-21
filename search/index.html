@@ -1,0 +1,40 @@
+---
+layout: default
+title: Streamdata.io API Gallery - Search
+---
+
+<div class="shortMasthead  shortMasthead--extra-top-padding ">
+     {% include api-listing-feature.html %}
+</div>
+
+<section class="taggedLinkCards">
+
+  <script>
+
+    function searchEntities()
+      {
+      search_keywords = document.getElementById('search_keywords').value;
+
+      jQuery.ajax({
+         url: "http://search.api.gallery.stack.network/search-api-gallery.php?query="+search_keywords,
+         method: "get",
+         success:function(results){
+            console.log(results);
+          },
+          error: function(XMLHttpRequest, textStatus, errorThrown) {
+              //console.log("Status: " + textStatus);
+              //console.log("Error: " + errorThrown);
+          }
+      });
+
+      }
+  </script>
+
+  <center>
+    <form name="entity-search">
+      <input type="text" name="search_keywords" id="search_keywords" value="" width="150">
+      <input type="button" name="search_button" value="Search APIs by Keyword " onclick="searchEntities();">
+    </form>
+  </center>
+  <div class="taggedLinkCards__cards" id="searchlisting" width="100%"></div>
+</section>

@@ -1,0 +1,176 @@
+---
+layout: default
+title: Streamdata.io API Gallery - Search
+---
+
+<div class="shortMasthead  shortMasthead--extra-top-padding ">
+     {% include api-listing-feature.html %}
+</div>
+
+<section class="taggedLinkCards">
+
+  <script>
+
+    function searchEntities()
+      {
+      search_keywords = document.getElementById('search_keywords').value;
+
+      jQuery.ajax({
+         url: "http://traffic.beacon.streamdata.gallery/search/count/?search="+search_keywords,
+         method: "get",
+         success:function(traffic){
+            //console.log(traffic);
+          },
+          error: function(XMLHttpRequest, textStatus, errorThrown) {
+              //console.log("Status: " + textStatus);
+              //console.log("Error: " + errorThrown);
+          }
+      });
+
+      //console.log("searching for: " + search_keywords);
+      document.getElementById('searchlisting').innerHTML == '';
+
+      pull_url = [];
+      entity = [];
+
+      jQuery.ajax({
+         url: "https://raw.githubusercontent.com/streamdata-gallery-master/entities/master/_data/entities.yaml",
+         method: "get",
+         success:function(entities){
+
+              jQuery.each(jsyaml.load(entities), function(rowKey, rowEntry) {
+
+                  entity[rowKey] = [];
+                  entity[rowKey]['org_label'] = rowEntry['label'];
+                  entity[rowKey]['org_slug'] = rowEntry['slug'];
+                  entity[rowKey]['org_dns_slug'] = entity[rowKey]['org_slug'].replace("-",".");
+                  entity[rowKey]['org_url'] = rowEntry['url'];
+                  entity[rowKey]['org_image'] = rowEntry['image'];
+
+                  entity[rowKey]['org_url'] = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity[rowKey]['org_slug'] + '/master/_listings/' + entity[rowKey]['org_slug'] + '/apis.md';
+                  //console.log(entity[rowKey]['org_url']);
+
+                  jQuery.ajax({
+                     url: entity[rowKey]['org_url'],
+                     method: "get",
+                     success:function(apisjson_index_response){
+
+                          entity[rowKey] = [];
+                          entity[rowKey]['apisjson_index_response'] = apisjson_index_response.replace("---","");
+                          entity[rowKey]['apisjson_index_response'] = entity[rowKey]['apisjson_index_response'].replace("---","");
+                          try
+                            {
+                              entity[rowKey]['apisjson_index_yaml'] = jsyaml.load(entity[rowKey]['apisjson_index_response']);
+
+                              entity[rowKey]['apis_name'] = entity[rowKey]['apisjson_index_yaml']['name'];
+                              entity[rowKey]['apis_description'] = entity[rowKey]['apisjson_index_yaml']['description'];
+                              entity[rowKey]['apis_slug'] = entity[rowKey]['apisjson_index_yaml']['x-api-slug'];
+
+                              // search
+                              entity[rowKey]['search_apis_name'] = entity[rowKey]['apis_name'].search(search_keywords);
+                              entity[rowKey]['search_apis_description'] = entity[rowKey]['apis_description'].search(search_keywords);
+                              entity[rowKey]['search_apis_name'] = entity[rowKey]['search_apis_name'] - 0;
+                              entity[rowKey]['search_apis_description'] = entity[rowKey]['search_apis_description'] - 0;
+
+                              jQuery.each(entity[rowKey]['apisjson_index_yaml']['apis'], function(rowKey2, rowEntry2) {
+
+                                entity[rowKey]['api_name'] = rowEntry2.name;
+                                entity[rowKey]['api_description'] = rowEntry2.description;
+                                entity[rowKey]['api_image'] = rowEntry2.image;
+                                entity[rowKey]['api_properties'] = rowEntry2.properties;
+
+                                // search
+                                entity[rowKey]['search_api_name'] = entity[rowKey]['api_name'].search(search_keywords);
+                                entity[rowKey]['search_api_description'] = entity[rowKey]['api_description'].search(search_keywords);
+                                entity[rowKey]['search_api_name'] = entity[rowKey]['search_api_name'] - 0;
+                                entity[rowKey]['search_api_description'] = entity[rowKey]['search_api_description'] - 0;
+
+                                if(entity[rowKey]['search_apis_name'] > 1 || entity[rowKey]['search_apis_description'] > 1 || entity[rowKey]['search_api_name'] > 1 || entity[rowKey]['search_api_description'] > 1)
+                                  {
+
+                                  // Just APIs for now.
+                                  jQuery.each(entity[rowKey]['api_properties'], function(property_name, property_value) {
+
+                                    if(property_value.type=='x-openapi-spec')
+                                      {
+                                      entity[rowKey]['api_url'] = property_value.url;
+                                      enttity[rowKey]['replace_this'] = "https://raw.githubusercontent.com/streamdata-gallery-organizations/"+entity[rowKey]['org_slug']+"/master/_listings/";
+                                      console.log("replace this: " + enttity[rowKey]['replace_this']);
+                                      enttity[rowKey]['replace_with'] = "http://"+entity[rowKey]['org_dns_slug']+".api.gallery.streamdata.io/listings/"+entity[rowKey]['org_slug']+"/";
+                                      console.log("replace with: " + enttity[rowKey]['replace_with']);
+                                      entity[rowKey]['api_url'] = entity[rowKey]['api_url'].replace(enttity[rowKey]['replace_this'],enttity[rowKey]['replace_with']);
+                                      entity[rowKey]['api_url'] = entity[rowKey]['api_url'].replace(".md","/");
+                                      entity[rowKey]['html'] = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '<a href="'+entity[rowKey]['api_url']+'"><img src="' + entity[rowKey]['api_image'] + '" class="taggedLinkCard__image" alt=""></a>';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__lower">';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__copy">';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '<h3 class="taggedLinkCard__title"><a href="'+entity[rowKey]['api_url']+'">' + entity[rowKey]['api_name'] + '</a></h3>';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '<p class="taggedLinkCard__body">' + entity[rowKey]['api_description'].substr(0, 550); + '...</p>';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
+                                      entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
+
+                                      //document.getElementById("searchlisting").appendChild(searchdiv);
+                                      document.getElementById('searchlisting').innerHTML = document.getElementById('searchlisting').innerHTML + entity[rowKey]['html'];
+                                      }
+
+                                    });
+
+                                  }
+
+                              });
+
+                            }
+                          catch(err)
+                            {
+
+                            }
+
+                      },
+                      error: function(XMLHttpRequest, textStatus, errorThrown) {
+                          jQuery.ajax({
+                             url: "http://traffic.beacon.streamdata.gallery/error/log/?url="+entity[rowKey]['org_url'],
+                             method: "get",
+                             success:function(traffic){
+                                //console.log(traffic);
+                              },
+                              error: function(XMLHttpRequest, textStatus, errorThrown) {
+                                  //console.log("Status: " + textStatus);
+                                  //console.log("Error: " + errorThrown);
+                              }
+                          });
+                      }
+                  });
+                  // End spidering of all entities
+                    //console.log("-------------------");
+
+                });
+          },
+          error: function(XMLHttpRequest, textStatus, errorThrown) {
+              //console.log("Status: " + textStatus);
+              //console.log("Error: " + errorThrown);
+          }
+      });
+
+      }
+  </script>
+
+  <center>
+    <form name="entity-search">
+      <input type="text" name="search_keywords" id="search_keywords" value="" width="150">
+      <input type="button" name="search_button" value="Search APIs by Keyword " onclick="searchEntities();">
+    </form>
+  </center>
+  <div class="taggedLinkCards__cards" id="searchlisting" width="100%"></div>
+</section>
+<div class="submitApi__overflowContainer" data-submit-api="">
+   <div class="submitApi submitApi--left-hand-image">
+
+     {% include api-listing-submit.html %}
+
+   </div>
+</div>
