@@ -294,6 +294,26 @@ title: Streamdata.io API Gallery
   </div>
 </section>
 
+<!--Leading Topics--->
+<section class="industriesPanel">
+  <h2 class="industriesPanel__header">Gallery Search</h2>
+  <p class="industriesPanel__body">A simple keyword search for looking across all the individual API paths in the gallery.</p>
+  <div class="industriesPanel__container">
+
+    <center>
+
+      <form name="entity-search">
+        <input type="text" name="search_keywords" id="search_keywords" value="" width="150">
+        <input type="button" name="search_button" value="Search APIs by Keyword " onclick="searchEntities();">
+      </form>
+
+      <div class="taggedLinkCards__cards" id="searchlisting"></div>
+
+    </center>
+
+  </div>
+</section>
+
 <section class="masthead">
   <picture>
     <source srcset="https://streamdata.io/wp-content/uploads/2018/01/Homepage-bg.png" media="(min-width: 1024px)">
