@@ -294,7 +294,66 @@ title: Streamdata.io API Gallery
   </div>
 </section>
 
-<!--Leading Topics--->
+<!--Gallery Search--->
+<section class="taggedLinkCards">
+
+<script>
+
+  function searchEntities()
+    {
+    search_keywords = document.getElementById('search_keywords').value;
+
+    jQuery.ajax({
+       url: "http://search.api.gallery.stack.network/search-api-gallery.php?query="+search_keywords,
+       method: "get",
+       success:function(results){
+
+         results = JSON.parse(results);
+          //console.log(results);
+          $("#searchlisting").html("<br />");
+
+          jQuery.each(results, function(rowKey, rowEntry) {
+
+            //console.log(rowEntry);
+
+            company_name = rowEntry['company_name'];
+            path = rowEntry['path'];
+            summary = rowEntry['summary'];
+            summary = summary.replace('"','');
+            description = rowEntry['description'];
+            description = description.replace('"','');
+            gallery_url = rowEntry['gallery_url'];
+            image = 'https://pbs.twimg.com/profile_images/575350576667451392/kViG3AyH_400x400.png';
+
+            var $html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5" id="entity-{% increment counter %}">';
+            $html = $html + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
+            $html = $html + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
+            $html = $html + '<a href="' + gallery_url + '"><img src="' + image + '" class="taggedLinkCard__image" alt=""></a>';
+            $html = $html + '</div>';
+            $html = $html + '<div class="taggedLinkCard__lower">';
+            $html = $html + '<div class="taggedLinkCard__copy">';
+            $html = $html + '<h3 class="taggedLinkCard__title"><a href="' + gallery_url + '" target=_"_blank">' + company_name + ' ' + summary + '</a></h3>';
+            $html = $html + '<p class="taggedLinkCard__body">' + description + '</p>';
+            $html = $html + '</div>';
+            $html = $html + '</div>';
+            $html = $html + '</div>';
+            $html = $html + '</div>';
+
+            //console.log($html);
+
+            $("#searchlisting").append($html);
+
+          });
+
+        },
+        error: function(XMLHttpRequest, textStatus, errorThrown) {
+            //console.log("Status: " + textStatus);
+            //console.log("Error: " + errorThrown);
+        }
+    });
+
+    }
+</script>
 <section class="industriesPanel">
   <h2 class="industriesPanel__header">Gallery Search</h2>
   <p class="industriesPanel__body">A simple keyword search for looking across all the individual API paths in the gallery.</p>
@@ -313,6 +372,7 @@ title: Streamdata.io API Gallery
 
   </div>
 </section>
+<!--Gallery Search--->
 
 <section class="masthead">
   <picture>
