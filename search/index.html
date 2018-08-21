@@ -25,7 +25,7 @@ title: Streamdata.io API Gallery - Search
 
             jQuery.each(results, function(rowKey, rowEntry) {
 
-              console.log(rowEntry);
+              //console.log(rowEntry);
 
               company_name = rowEntry['company_name'];
               path = rowEntry['path'];
@@ -33,13 +33,24 @@ title: Streamdata.io API Gallery - Search
               summary = summary.replace('"','');
               description = rowEntry['description'];
               description = description.replace('"','');
-              company_name = rowEntry['gallery_url'];
+              gallery_url = rowEntry['gallery_url'];
+              image = 'https://pbs.twimg.com/profile_images/575350576667451392/kViG3AyH_400x400.png';
 
-              var $html = '<tr>';
-              $html = $html + '<td>' +  company_name + '</td>';
-              $html = $html + '</tr>';
+              var $html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5" id="entity-{% increment counter %}">';
+              $html = $html + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
+              $html = $html + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
+              $html = $html + '<a href="' + gallery_url + '"><img src="' + image + '" class="taggedLinkCard__image" alt=""></a>';
+              $html = $html + '</div>';
+              $html = $html + '<div class="taggedLinkCard__lower">';
+              $html = $html + '<div class="taggedLinkCard__copy">';
+              $html = $html + '<h3 class="taggedLinkCard__title"><a href="' + gallery_url + '">' + company_name + ' ' + summary + '</a></h3>';
+              $html = $html + '<p class="taggedLinkCard__body">' + description + '</p>';
+              $html = $html + '</div>';
+              $html = $html + '</div>';
+              $html = $html + '</div>';
+              $html = $html + '</div>';
 
-              console.log($html);
+              //console.log($html);
 
               $("#searchlisting").append($html);
 
@@ -60,7 +71,9 @@ title: Streamdata.io API Gallery - Search
       <input type="text" name="search_keywords" id="search_keywords" value="" width="150">
       <input type="button" name="search_button" value="Search APIs by Keyword " onclick="searchEntities();">
     </form>
-    <table width="100%" border="1" id="search-table"></table>
+
+    <div class="taggedLinkCards__cards" id="searchlisting"></div>
+
   </center>
   <div class="taggedLinkCards__cards" id="searchlisting" width="100%"></div>
 </section>
