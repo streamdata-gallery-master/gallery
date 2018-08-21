@@ -30,7 +30,9 @@ title: Streamdata.io API Gallery - Search
               company_name = rowEntry['company_name'];
               path = rowEntry['path'];
               summary = rowEntry['summary'];
+              summary = summary.replace('"','');
               description = rowEntry['description'];
+              description = description.replace('"','');
               company_name = rowEntry['gallery_url'];
 
               var $html = '<tr>';
