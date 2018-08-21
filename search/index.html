@@ -20,6 +20,23 @@ title: Streamdata.io API Gallery - Search
          method: "get",
          success:function(results){
             console.log(results);
+
+            jQuery.each(results, function(rowKey, rowEntry) {
+
+              company_name = rowEntry['company_name'];
+              path = rowEntry['path'];
+              summary = rowEntry['summary'];
+              description = rowEntry['description'];
+              company_name = rowEntry['gallery_url'];
+
+              $html = '<tr>';
+              $html = $html + '<td>' +  company_name + '</td>';
+              $html = $html + '</tr>';
+
+              $("#inner").append($html);
+
+            });
+
           },
           error: function(XMLHttpRequest, textStatus, errorThrown) {
               //console.log("Status: " + textStatus);
@@ -35,6 +52,7 @@ title: Streamdata.io API Gallery - Search
       <input type="text" name="search_keywords" id="search_keywords" value="" width="150">
       <input type="button" name="search_button" value="Search APIs by Keyword " onclick="searchEntities();">
     </form>
+    <table width="100%" border="1" id="search-table"></table>
   </center>
   <div class="taggedLinkCards__cards" id="searchlisting" width="100%"></div>
 </section>
