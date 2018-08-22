@@ -323,7 +323,7 @@ title: Streamdata.io API Gallery
             description = rowEntry['description'];
             description = description.replace('"','');
             gallery_url = rowEntry['gallery_url'];
-            image = 'https://pbs.twimg.com/profile_images/575350576667451392/kViG3AyH_400x400.png';
+            image = rowEntry['image'];
 
             var $html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5" id="entity-{% increment counter %}">';
             $html = $html + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
