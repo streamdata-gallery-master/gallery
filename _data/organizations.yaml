@@ -1,3218 +1,3232 @@
 ---
-- label: ~
+- label: 123FormBuilder
   slug: 123formbuilder
   url: http://123formbuilder.api.gallery.streamdata.io
   image: 123formbuilder.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing 123FormBuilder's APIs.
   paths: "27"
-- label: ~
+- label: 3dcart
   slug: 3dcart
   url: http://3dcart.api.gallery.streamdata.io
   image: 3dcart.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing 3dcart's APIs.
   paths: "145"
-- label: ~
+- label: 3scale
   slug: 3scale
   url: http://3scale.api.gallery.streamdata.io
   image: 3scale.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing 3scale's APIs.
   paths: "146"
-- label: ~
+- label: 7digital
   slug: 7digital
   url: http://7digital.api.gallery.streamdata.io
   image: 7digital.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing 7digital's APIs.
   paths: "16"
-- label: ~
+- label: Accelerated Mobile Pages URL
   slug: accelerated-mobile-pages-url
   url: http://accelerated.mobile.pages.url.api.gallery.streamdata.io
   image: accelerated-mobile-pages-url.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Accelerated Mobile Pages URL's APIs.
   paths: "1"
-- label: ~
+- label: Actility
   slug: actility
   url: http://actility.api.gallery.streamdata.io
   image: actility.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Actility's APIs.
   paths: "104"
-- label: ~
+- label: Akeneo
   slug: akeneo
   url: http://akeneo.api.gallery.streamdata.io
   image: akeneo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Akeneo's APIs.
   paths: "86"
-- label: ~
+- label: Allied Irish Bank
   slug: allied-irish-bank
   url: http://allied.irish.bank.api.gallery.streamdata.io
   image: allied-irish-bank.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Allied Irish Bank's APIs.
   paths: "23"
-- label: ~
+- label: Alpha Vantage
   slug: alpha-vantage
   url: http://alpha.vantage.api.gallery.streamdata.io
   image: alpha-vantage.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Alpha Vantage's APIs.
   paths: "24"
-- label: ~
+- label: Amadeus
   slug: amadeus
   url: http://amadeus.api.gallery.streamdata.io
   image: amadeus.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Amadeus's APIs.
   paths: "23"
-- label: ~
+- label: AMEE
   slug: amee
   url: http://amee.api.gallery.streamdata.io
   image: amee.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AMEE's APIs.
   paths: "11"
-- label: ~
+- label: AngelList
   slug: angellist
   url: http://angellist.api.gallery.streamdata.io
   image: angellist.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AngelList's APIs.
   paths: "43"
-- label: ~
+- label: API Science
   slug: api-science
   url: http://api.science.api.gallery.streamdata.io
   image: api-science.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing API Science's APIs.
   paths: "29"
-- label: ~
+- label: api.video
   slug: api-video
   url: http://api.video.api.gallery.streamdata.io
   image: api-video.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing api.video's APIs.
   paths: "19"
-- label: ~
+- label: Apica
   slug: apica
   url: http://apica.api.gallery.streamdata.io
   image: apica.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Apica's APIs.
   paths: "89"
-- label: ~
+- label: Apigee
   slug: apigee
   url: http://apigee.api.gallery.streamdata.io
   image: apigee.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Apigee's APIs.
   paths: "152"
-- label: ~
+- label: APIMATIC
   slug: apimatic
   url: http://apimatic.api.gallery.streamdata.io
   image: apimatic.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing APIMATIC's APIs.
   paths: "1"
-- label: ~
+- label: APImetrics
   slug: apimetrics
   url: http://apimetrics.api.gallery.streamdata.io
   image: apimetrics.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing APImetrics's APIs.
   paths: "37"
-- label: ~
+- label: APIs.Guru
   slug: apis-guru
   url: http://apis.guru.api.gallery.streamdata.io
   image: apis-guru.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing APIs.Guru's APIs.
   paths: "2"
-- label: ~
+- label: APIs.io
   slug: apis-io
   url: http://apis.io.api.gallery.streamdata.io
   image: apis-io.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing APIs.io's APIs.
   paths: "4"
-- label: ~
+- label: AppVeyor CI
   slug: appveyor-ci
   url: http://appveyor.ci.api.gallery.streamdata.io
   image: appveyor-ci.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AppVeyor CI's APIs.
   paths: "79"
-- label: ~
+- label: ARIN
   slug: arin
   url: http://arin.api.gallery.streamdata.io
   image: arin.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing ARIN's APIs.
   paths: "24"
-- label: ~
+- label: Arlington National Cemetery
   slug: arlington-national-cemetery
   url: http://arlington.national.cemetery.api.gallery.streamdata.io
   image: arlington-national-cemetery.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Arlington National Cemetery's APIs.
   paths: "1"
-- label: ~
+- label: Aspose
   slug: aspose
   url: http://aspose.api.gallery.streamdata.io
   image: aspose.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Aspose's APIs.
   paths: "9"
-- label: ~
+- label: Atlassian
   slug: atlassian
   url: http://atlassian.api.gallery.streamdata.io
   image: atlassian.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Atlassian's APIs.
   paths: "484"
-- label: ~
+- label: ATTOM
   slug: attom
   url: http://attom.api.gallery.streamdata.io
   image: attom.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing ATTOM's APIs.
   paths: "35"
-- label: ~
+- label: Auth0
   slug: auth0
   url: http://auth0.api.gallery.streamdata.io
   image: auth0.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Auth0's APIs.
   paths: "36"
-- label: ~
+- label: Authentiq Connect
   slug: authentiq-connect
   url: http://authentiq.connect.api.gallery.streamdata.io
   image: authentiq-connect.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Authentiq Connect's APIs.
   paths: "9"
-- label: ~
+- label: AuthorityLabs
   slug: authoritylabs
   url: http://authoritylabs.api.gallery.streamdata.io
   image: authoritylabs.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AuthorityLabs's APIs.
   paths: "3"
-- label: ~
+- label: Autodesk
   slug: autodesk
   url: http://autodesk.api.gallery.streamdata.io
   image: autodesk.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Autodesk's APIs.
   paths: "15"
-- label: ~
+- label: Automox
   slug: automox
   url: http://automox.api.gallery.streamdata.io
   image: automox.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Automox's APIs.
   paths: "30"
-- label: ~
+- label: aWhere
   slug: awhere
   url: http://awhere.api.gallery.streamdata.io
   image: awhere.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing aWhere's APIs.
   paths: "18"
-- label: ~
+- label: AWS API Gateway
   slug: aws-api-gateway
   url: http://aws.api.gateway.api.gallery.streamdata.io
   image: aws-api-gateway.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS API Gateway's APIs.
   paths: "57"
-- label: ~
+- label: AWS AppStream
   slug: aws-appstream
   url: http://aws.appstream.api.gallery.streamdata.io
   image: aws-appstream.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS AppStream's APIs.
   paths: "18"
-- label: ~
+- label: AWS Auto Scaling
   slug: aws-auto-scaling
   url: http://aws.auto.scaling.api.gallery.streamdata.io
   image: aws-auto-scaling.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Auto Scaling's APIs.
   paths: "52"
-- label: ~
+- label: AWS Batch
   slug: aws-batch
   url: http://aws.batch.api.gallery.streamdata.io
   image: aws-batch.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Batch's APIs.
   paths: "16"
-- label: ~
+- label: AWS Certificate Manager
   slug: aws-certificate-manager
   url: http://aws.certificate.manager.api.gallery.streamdata.io
   image: aws-certificate-manager.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Certificate Manager's APIs.
   paths: "10"
-- label: ~
+- label: AWS CloudFormation
   slug: aws-cloudformation
   url: http://aws.cloudformation.api.gallery.streamdata.io
   image: aws-cloudformation.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS CloudFormation's APIs.
   paths: "26"
-- label: ~
+- label: AWS CloudFront
   slug: aws-cloudfront
   url: http://aws.cloudfront.api.gallery.streamdata.io
   image: aws-cloudfront.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS CloudFront's APIs.
   paths: "27"
-- label: ~
+- label: AWS CloudHSM
   slug: aws-cloudhsm
   url: http://aws.cloudhsm.api.gallery.streamdata.io
   image: aws-cloudhsm.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS CloudHSM's APIs.
   paths: "20"
-- label: ~
+- label: AWS CloudSearch
   slug: aws-cloudsearch
   url: http://aws.cloudsearch.api.gallery.streamdata.io
   image: aws-cloudsearch.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS CloudSearch's APIs.
   paths: "28"
-- label: ~
+- label: AWS CloudWatch
   slug: aws-cloudwatch
   url: http://aws.cloudwatch.api.gallery.streamdata.io
   image: aws-cloudwatch.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS CloudWatch's APIs.
   paths: "11"
-- label: ~
+- label: AWS Code Pipeline
   slug: aws-code-pipeline
   url: http://aws.code.pipeline.api.gallery.streamdata.io
   image: aws-code-pipeline.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Code Pipeline's APIs.
   paths: "26"
-- label: ~
+- label: AWS CodeBuild
   slug: aws-codebuild
   url: http://aws.codebuild.api.gallery.streamdata.io
   image: aws-codebuild.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS CodeBuild's APIs.
   paths: "11"
-- label: ~
+- label: AWS CodeCommit
   slug: aws-codecommit
   url: http://aws.codecommit.api.gallery.streamdata.io
   image: aws-codecommit.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS CodeCommit's APIs.
   paths: "15"
-- label: ~
+- label: AWS CodeDeploy
   slug: aws-codedeploy
   url: http://aws.codedeploy.api.gallery.streamdata.io
   image: aws-codedeploy.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS CodeDeploy's APIs.
   paths: "35"
-- label: ~
+- label: AWS Cognito
   slug: aws-cognito
   url: http://aws.cognito.api.gallery.streamdata.io
   image: aws-cognito.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Cognito's APIs.
   paths: "100"
-- label: ~
+- label: AWS Config
   slug: aws-config
   url: http://aws.config.api.gallery.streamdata.io
   image: aws-config.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Config's APIs.
   paths: "26"
-- label: ~
+- label: AWS Data Pipeline
   slug: aws-data-pipeline
   url: http://aws.data.pipeline.api.gallery.streamdata.io
   image: aws-data-pipeline.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Data Pipeline's APIs.
   paths: "19"
-- label: ~
+- label: AWS Database Migration Service
   slug: aws-database-migration-service
   url: http://aws.database.migration.service.api.gallery.streamdata.io
   image: aws-database-migration-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Database Migration Service's APIs.
   paths: "33"
-- label: ~
+- label: AWS Device Farm
   slug: aws-device-farm
   url: http://aws.device.farm.api.gallery.streamdata.io
   image: aws-device-farm.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Device Farm's APIs.
   paths: "43"
-- label: ~
+- label: AWS Direct Connect
   slug: aws-direct-connect
   url: http://aws.direct.connect.api.gallery.streamdata.io
   image: aws-direct-connect.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Direct Connect's APIs.
   paths: "26"
-- label: ~
+- label: AWS Directory Service
   slug: aws-directory-service
   url: http://aws.directory.service.api.gallery.streamdata.io
   image: aws-directory-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Directory Service's APIs.
   paths: "38"
-- label: ~
+- label: AWS DynamoDB
   slug: aws-dynamodb
   url: http://aws.dynamodb.api.gallery.streamdata.io
   image: aws-dynamodb.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS DynamoDB's APIs.
   paths: "14"
-- label: ~
+- label: AWS EC2
   slug: aws-ec2
   url: http://aws.ec2.api.gallery.streamdata.io
   image: aws-ec2.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS EC2's APIs.
   paths: "220"
-- label: ~
+- label: AWS EC2 Container Registry Service
   slug: aws-ec2-container-registry-service
   url: http://aws.ec2.container.registry.service.api.gallery.streamdata.io
   image: aws-ec2-container-registry-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS EC2 Container Registry Service's
+    APIs.
   paths: "17"
-- label: ~
+- label: AWS EC2 Container Service
   slug: aws-ec2-container-service
   url: http://aws.ec2.container.service.api.gallery.streamdata.io
   image: aws-ec2-container-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS EC2 Container Service's APIs.
   paths: "30"
-- label: ~
+- label: AWS EC2 Systems Manager
   slug: aws-ec2-systems-manager
   url: http://aws.ec2.systems.manager.api.gallery.streamdata.io
   image: aws-ec2-systems-manager.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS EC2 Systems Manager's APIs.
   paths: "80"
-- label: ~
+- label: AWS Elastic Beanstalk
   slug: aws-elastic-beanstalk
   url: http://aws.elastic.beanstalk.api.gallery.streamdata.io
   image: aws-elastic-beanstalk.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Elastic Beanstalk's APIs.
   paths: "37"
-- label: ~
+- label: AWS Elastic Load Balancing
   slug: aws-elastic-load-balancing
   url: http://aws.elastic.load.balancing.api.gallery.streamdata.io
   image: aws-elastic-load-balancing.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Elastic Load Balancing's APIs.
   paths: "29"
-- label: ~
+- label: AWS Elastic MapReduce
   slug: aws-elastic-mapreduce
   url: http://aws.elastic.mapreduce.api.gallery.streamdata.io
   image: aws-elastic-mapreduce.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Elastic MapReduce's APIs.
   paths: "24"
-- label: ~
+- label: AWS ElastiCache
   slug: aws-elasticache
   url: http://aws.elasticache.api.gallery.streamdata.io
   image: aws-elasticache.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS ElastiCache's APIs.
   paths: "39"
-- label: ~
+- label: AWS Elasticsearch Service
   slug: aws-elasticsearch-service
   url: http://aws.elasticsearch.service.api.gallery.streamdata.io
   image: aws-elasticsearch-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Elasticsearch Service's APIs.
   paths: "11"
-- label: ~
+- label: AWS Glacier
   slug: aws-glacier
   url: http://aws.glacier.api.gallery.streamdata.io
   image: aws-glacier.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Glacier's APIs.
   paths: "29"
-- label: ~
+- label: AWS Identity and Access Management
   slug: aws-identity-and-access-management
   url: http://aws.identity.and.access.management.api.gallery.streamdata.io
   image: aws-identity-and-access-management.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Identity and Access Management's
+    APIs.
   paths: "118"
-- label: ~
+- label: AWS Inspector
   slug: aws-inspector
   url: http://aws.inspector.api.gallery.streamdata.io
   image: aws-inspector.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Inspector's APIs.
   paths: "32"
-- label: ~
+- label: AWS Internet of Things
   slug: aws-internet-of-things
   url: http://aws.internet.of.things.api.gallery.streamdata.io
   image: aws-internet-of-things.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Internet of Things's APIs.
   paths: "57"
-- label: ~
+- label: AWS Key Management Service
   slug: aws-key-management-service
   url: http://aws.key.management.service.api.gallery.streamdata.io
   image: aws-key-management-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Key Management Service's APIs.
   paths: "32"
-- label: ~
+- label: AWS Kinesis
   slug: aws-kinesis
   url: http://aws.kinesis.api.gallery.streamdata.io
   image: aws-kinesis.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Kinesis's APIs.
   paths: "8"
-- label: ~
+- label: AWS Kinesis Analytics
   slug: aws-kinesis-analytics
   url: http://aws.kinesis.analytics.api.gallery.streamdata.io
   image: aws-kinesis-analytics.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Kinesis Analytics's APIs.
   paths: "13"
-- label: ~
+- label: AWS Lambda
   slug: aws-lambda
   url: http://aws.lambda.api.gallery.streamdata.io
   image: aws-lambda.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Lambda's APIs.
   paths: "25"
-- label: ~
+- label: AWS Lightsale
   slug: aws-lightsale
   url: http://aws.lightsale.api.gallery.streamdata.io
   image: aws-lightsale.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Lightsale's APIs.
   paths: "47"
-- label: ~
+- label: AWS Machine Learning
   slug: aws-machine-learning
   url: http://aws.machine.learning.api.gallery.streamdata.io
   image: aws-machine-learning.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Machine Learning's APIs.
   paths: "28"
-- label: ~
+- label: AWS Marketplace Metering Service
   slug: aws-marketplace-metering-service
   url: http://aws.marketplace.metering.service.api.gallery.streamdata.io
   image: aws-marketplace-metering-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Marketplace Metering Service's APIs.
   paths: "1"
-- label: ~
+- label: AWS OpsWorks
   slug: aws-opsworks
   url: http://aws.opsworks.api.gallery.streamdata.io
   image: aws-opsworks.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS OpsWorks's APIs.
   paths: "70"
-- label: ~
+- label: AWS Pinpoint
   slug: aws-pinpoint
   url: http://aws.pinpoint.api.gallery.streamdata.io
   image: aws-pinpoint.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Pinpoint's APIs.
   paths: "24"
-- label: ~
+- label: AWS Polly
   slug: aws-polly
   url: http://aws.polly.api.gallery.streamdata.io
   image: aws-polly.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Polly's APIs.
   paths: "6"
-- label: ~
+- label: AWS RDS
   slug: aws-rds
   url: http://aws.rds.api.gallery.streamdata.io
   image: aws-rds.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS RDS's APIs.
   paths: "86"
-- label: ~
+- label: AWS Redshift
   slug: aws-redshift
   url: http://aws.redshift.api.gallery.streamdata.io
   image: aws-redshift.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Redshift's APIs.
   paths: "62"
-- label: ~
+- label: AWS Rekognition
   slug: aws-rekognition
   url: http://aws.rekognition.api.gallery.streamdata.io
   image: aws-rekognition.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Rekognition's APIs.
   paths: "11"
-- label: ~
+- label: AWS Route 53
   slug: aws-route-53
   url: http://aws.route.53.api.gallery.streamdata.io
   image: aws-route-53.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Route 53's APIs.
   paths: "49"
-- label: ~
+- label: AWS S3
   slug: aws-s3
   url: http://aws.s3.api.gallery.streamdata.io
   image: aws-s3.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS S3's APIs.
   paths: "68"
-- label: ~
+- label: AWS Security Token Service
   slug: aws-security-token-service
   url: http://aws.security.token.service.api.gallery.streamdata.io
   image: aws-security-token-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Security Token Service's APIs.
   paths: "7"
-- label: ~
+- label: AWS Server Migration Service
   slug: aws-server-migration-service
   url: http://aws.server.migration.service.api.gallery.streamdata.io
   image: aws-server-migration-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Server Migration Service's APIs.
   paths: "11"
-- label: ~
+- label: AWS Service Catalog
   slug: aws-service-catalog
   url: http://aws.service.catalog.api.gallery.streamdata.io
   image: aws-service-catalog.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Service Catalog's APIs.
   paths: "43"
-- label: ~
+- label: AWS Shield
   slug: aws-shield
   url: http://aws.shield.api.gallery.streamdata.io
   image: aws-shield.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Shield's APIs.
   paths: "9"
-- label: ~
+- label: AWS Simple Email Service
   slug: aws-simple-email-service
   url: http://aws.simple.email.service.api.gallery.streamdata.io
   image: aws-simple-email-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Simple Email Service's APIs.
   paths: "49"
-- label: ~
+- label: AWS Simple Notification Service
   slug: aws-simple-notification-service
   url: http://aws.simple.notification.service.api.gallery.streamdata.io
   image: aws-simple-notification-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Simple Notification Service's APIs.
   paths: "30"
-- label: ~
+- label: AWS Simple Queue Service
   slug: aws-simple-queue-service
   url: http://aws.simple.queue.service.api.gallery.streamdata.io
   image: aws-simple-queue-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Simple Queue Service's APIs.
   paths: "17"
-- label: ~
+- label: AWS Snowball
   slug: aws-snowball
   url: http://aws.snowball.api.gallery.streamdata.io
   image: aws-snowball.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Snowball's APIs.
   paths: "17"
-- label: ~
+- label: AWS Step Functions
   slug: aws-step-functions
   url: http://aws.step.functions.api.gallery.streamdata.io
   image: aws-step-functions.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Step Functions's APIs.
   paths: "17"
-- label: ~
+- label: AWS Storage Gateway Service
   slug: aws-storage-gateway-service
   url: http://aws.storage.gateway.service.api.gallery.streamdata.io
   image: aws-storage-gateway-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS Storage Gateway Service's APIs.
   paths: "61"
-- label: ~
+- label: AWS WorkDocs
   slug: aws-workdocs
   url: http://aws.workdocs.api.gallery.streamdata.io
   image: aws-workdocs.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS WorkDocs's APIs.
   paths: "29"
-- label: ~
+- label: AWS WorkSpaces
   slug: aws-workspaces
   url: http://aws.workspaces.api.gallery.streamdata.io
   image: aws-workspaces.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS WorkSpaces's APIs.
   paths: "14"
-- label: ~
+- label: AWS X-Ray
   slug: aws-xray
   url: http://aws.xray.api.gallery.streamdata.io
   image: aws-xray.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AWS X-Ray's APIs.
   paths: "6"
-- label: ~
+- label: AXA Assistance
   slug: axa-assistance
   url: http://axa.assistance.api.gallery.streamdata.io
   image: axa-assistance.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing AXA Assistance's APIs.
   paths: "111"
-- label: ~
+- label: Aylien
   slug: aylien
   url: http://aylien.api.gallery.streamdata.io
   image: aylien.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Aylien's APIs.
   paths: "10"
-- label: ~
+- label: Azure Advisor
   slug: azure-advisor
   url: http://azure.advisor.api.gallery.streamdata.io
   image: azure-advisor.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Advisor's APIs.
   paths: "18"
-- label: ~
+- label: Azure Analysis Services
   slug: azure-analysis-services
   url: http://azure.analysis.services.api.gallery.streamdata.io
   image: azure-analysis-services.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Analysis Services's APIs.
   paths: "16"
-- label: ~
+- label: Azure API Management
   slug: azure-api-management
   url: http://azure.api.management.api.gallery.streamdata.io
   image: azure-api-management.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure API Management's APIs.
   paths: "254"
-- label: ~
+- label: Azure Application Insights
   slug: azure-application-insights
   url: http://azure.application.insights.api.gallery.streamdata.io
   image: azure-application-insights.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Application Insights's APIs.
   paths: "26"
-- label: ~
+- label: Azure Automation
   slug: azure-automation
   url: http://azure.automation.api.gallery.streamdata.io
   image: azure-automation.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Automation's APIs.
   paths: "224"
-- label: ~
+- label: Azure Batch
   slug: azure-batch
   url: http://azure.batch.api.gallery.streamdata.io
   image: azure-batch.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Batch's APIs.
   paths: "38"
-- label: ~
+- label: Azure Billing API
   slug: azure-billing-api
   url: http://azure.billing.api.api.gallery.streamdata.io
   image: azure-billing-api.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Billing API's APIs.
   paths: "16"
-- label: ~
+- label: Azure Blockchain Workbench
   slug: azure-blockchain-workbench
   url: http://azure.blockchain.workbench.api.gallery.streamdata.io
   image: azure-blockchain-workbench.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Blockchain Workbench's APIs.
   paths: "42"
-- label: ~
+- label: Azure CDN
   slug: azure-cdn
   url: http://azure.cdn.api.gallery.streamdata.io
   image: azure-cdn.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure CDN's APIs.
   paths: "64"
-- label: ~
+- label: Azure Cognitive Services
   slug: azure-cognitive-services
   url: http://azure.cognitive.services.api.gallery.streamdata.io
   image: azure-cognitive-services.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Cognitive Services's APIs.
   paths: "22"
-- label: ~
+- label: Azure Container Registry
   slug: azure-container-registry
   url: http://azure.container.registry.api.gallery.streamdata.io
   image: azure-container-registry.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Container Registry's APIs.
   paths: "20"
-- label: ~
+- label: Azure Container Service
   slug: azure-container-service
   url: http://azure.container.service.api.gallery.streamdata.io
   image: azure-container-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Container Service's APIs.
   paths: "10"
-- label: ~
+- label: Azure Data Lake Analytics
   slug: azure-data-lake-analytics
   url: http://azure.data.lake.analytics.api.gallery.streamdata.io
   image: azure-data-lake-analytics.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Data Lake Analytics's APIs.
   paths: "93"
-- label: ~
+- label: Azure Data Lake Store
   slug: azure-data-lake-store
   url: http://azure.data.lake.store.api.gallery.streamdata.io
   image: azure-data-lake-store.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Data Lake Store's APIs.
   paths: "56"
-- label: ~
+- label: Azure DevTest Labs
   slug: azure-devtest-labs
   url: http://azure.devtest.labs.api.gallery.streamdata.io
   image: azure-devtest-labs.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure DevTest Labs's APIs.
   paths: "210"
-- label: ~
+- label: Azure DNS
   slug: azure-dns
   url: http://azure.dns.api.gallery.streamdata.io
   image: azure-dns.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure DNS's APIs.
   paths: "22"
-- label: ~
+- label: Azure DocumentDB
   slug: azure-documentdb
   url: http://azure.documentdb.api.gallery.streamdata.io
   image: azure-documentdb.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure DocumentDB's APIs.
   paths: "24"
-- label: ~
+- label: Azure Event Hubs
   slug: azure-event-hubs
   url: http://azure.event.hubs.api.gallery.streamdata.io
   image: azure-event-hubs.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Event Hubs's APIs.
   paths: "56"
-- label: ~
+- label: Azure HDInsight
   slug: azure-hdinsight
   url: http://azure.hdinsight.api.gallery.streamdata.io
   image: azure-hdinsight.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure HDInsight's APIs.
   paths: "50"
-- label: ~
+- label: Azure IoT Hub
   slug: azure-iot-hub
   url: http://azure.iot.hub.api.gallery.streamdata.io
   image: azure-iot-hub.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure IoT Hub's APIs.
   paths: "38"
-- label: ~
+- label: Azure Key Vault
   slug: azure-key-vault
   url: http://azure.key.vault.api.gallery.streamdata.io
   image: azure-key-vault.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Key Vault's APIs.
   paths: "9"
-- label: ~
+- label: Azure Logic Apps
   slug: azure-logic-apps
   url: http://azure.logic.apps.api.gallery.streamdata.io
   image: azure-logic-apps.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Logic Apps's APIs.
   paths: "118"
-- label: ~
+- label: Azure Machine Learning
   slug: azure-machine-learning
   url: http://azure.machine.learning.api.gallery.streamdata.io
   image: azure-machine-learning.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Machine Learning's APIs.
   paths: "16"
-- label: ~
+- label: Azure Media Services
   slug: azure-media-services
   url: http://azure.media.services.api.gallery.streamdata.io
   image: azure-media-services.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Media Services's APIs.
   paths: "18"
-- label: ~
+- label: Azure Monitor
   slug: azure-monitor
   url: http://azure.monitor.api.gallery.streamdata.io
   image: azure-monitor.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Monitor's APIs.
   paths: "20"
-- label: ~
+- label: Azure Notification Hubs
   slug: azure-notification-hubs
   url: http://azure.notification.hubs.api.gallery.streamdata.io
   image: azure-notification-hubs.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Notification Hubs's APIs.
   paths: "50"
-- label: ~
+- label: Azure Recovery Services
   slug: azure-recovery-services
   url: http://azure.recovery.services.api.gallery.streamdata.io
   image: azure-recovery-services.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Recovery Services's APIs.
   paths: "36"
-- label: ~
+- label: Azure Redis Cache
   slug: azure-redis-cache
   url: http://azure.redis.cache.api.gallery.streamdata.io
   image: azure-redis-cache.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Redis Cache's APIs.
   paths: "38"
-- label: ~
+- label: Azure Resource Health
   slug: azure-resource-health
   url: http://azure.resource.health.api.gallery.streamdata.io
   image: azure-resource-health.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Resource Health's APIs.
   paths: "10"
-- label: ~
+- label: Azure Resource Manager
   slug: azure-resource-manager
   url: http://azure.resource.manager.api.gallery.streamdata.io
   image: azure-resource-manager.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Resource Manager's APIs.
   paths: "109"
-- label: ~
+- label: Azure Scheduler
   slug: azure-scheduler
   url: http://azure.scheduler.api.gallery.streamdata.io
   image: azure-scheduler.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Scheduler's APIs.
   paths: "30"
-- label: ~
+- label: Azure Search
   slug: azure-search
   url: http://azure.search.api.gallery.streamdata.io
   image: azure-search.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Search's APIs.
   paths: "20"
-- label: ~
+- label: Azure Service Bus
   slug: azure-service-bus
   url: http://azure.service.bus.api.gallery.streamdata.io
   image: azure-service-bus.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Service Bus's APIs.
   paths: "76"
-- label: ~
+- label: Azure Service Fabric
   slug: azure-service-fabric
   url: http://azure.service.fabric.api.gallery.streamdata.io
   image: azure-service-fabric.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Service Fabric's APIs.
   paths: "16"
-- label: ~
+- label: Azure SQL Database
   slug: azure-sql-database
   url: http://azure.sql.database.api.gallery.streamdata.io
   image: azure-sql-database.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure SQL Database's APIs.
   paths: "100"
-- label: ~
+- label: Azure Storage
   slug: azure-storage
   url: http://azure.storage.api.gallery.streamdata.io
   image: azure-storage.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Storage's APIs.
   paths: "90"
-- label: ~
+- label: Azure Traffic Manager
   slug: azure-traffic-manager
   url: http://azure.traffic.manager.api.gallery.streamdata.io
   image: azure-traffic-manager.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Traffic Manager's APIs.
   paths: "24"
-- label: ~
+- label: Azure Virtual Network
   slug: azure-virtual-network
   url: http://azure.virtual.network.api.gallery.streamdata.io
   image: azure-virtual-network.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Azure Virtual Network's APIs.
   paths: "266"
-- label: ~
+- label: Backupify
   slug: backupify
   url: http://backupify.api.gallery.streamdata.io
   image: backupify.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Backupify's APIs.
   paths: "41"
-- label: ~
+- label: Bandsintown
   slug: bandsintown
   url: http://bandsintown.api.gallery.streamdata.io
   image: bandsintown.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Bandsintown's APIs.
   paths: "2"
-- label: ~
+- label: Bank of Ireland
   slug: bank-of-ireland
   url: http://bank.of.ireland.api.gallery.streamdata.io
   image: bank-of-ireland.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Bank of Ireland's APIs.
   paths: "6"
-- label: ~
+- label: Bank of Scotland
   slug: bank-of-scotland
   url: http://bank.of.scotland.api.gallery.streamdata.io
   image: bank-of-scotland.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Bank of Scotland's APIs.
   paths: "6"
-- label: ~
+- label: Barchart
   slug: barchart
   url: http://barchart.api.gallery.streamdata.io
   image: barchart.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Barchart's APIs.
   paths: "8"
-- label: ~
+- label: Barclays
   slug: barclays
   url: http://barclays.api.gallery.streamdata.io
   image: barclays.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Barclays's APIs.
   paths: "6"
-- label: ~
+- label: BBC
   slug: bbc
   url: http://bbc.api.gallery.streamdata.io
   image: bbc.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing BBC's APIs.
   paths: "25"
-- label: ~
+- label: BC Geographical Names
   slug: bc-geographical-names
   url: http://bc.geographical.names.api.gallery.streamdata.io
   image: bc-geographical-names.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing BC Geographical Names's APIs.
   paths: "21"
-- label: ~
+- label: BC Laws
   slug: bc-laws
   url: http://bc.laws.api.gallery.streamdata.io
   image: bc-laws.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing BC Laws's APIs.
   paths: "7"
-- label: ~
+- label: BC Route Planner
   slug: bc-route-planner
   url: http://bc.route.planner.api.gallery.streamdata.io
   image: bc-route-planner.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing BC Route Planner's APIs.
   paths: "4"
-- label: ~
+- label: BetterDoctor
   slug: betterdoctor
   url: http://betterdoctor.api.gallery.streamdata.io
   image: betterdoctor.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing BetterDoctor's APIs.
   paths: "17"
-- label: ~
+- label: BigCommerce
   slug: bigcommerce
   url: http://bigcommerce.api.gallery.streamdata.io
   image: bigcommerce.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing BigCommerce's APIs.
   paths: "60"
-- label: ~
+- label: BigOven
   slug: bigoven
   url: http://bigoven.api.gallery.streamdata.io
   image: bigoven.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing BigOven's APIs.
   paths: "47"
-- label: ~
+- label: Bitbucket
   slug: bitbucket
   url: http://bitbucket.api.gallery.streamdata.io
   image: bitbucket.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Bitbucket's APIs.
   paths: "275"
-- label: ~
+- label: Bitly
   slug: bitly
   url: http://bitly.api.gallery.streamdata.io
   image: bitly.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Bitly's APIs.
   paths: "45"
-- label: ~
+- label: BlazeMeter
   slug: blazemeter
   url: http://blazemeter.api.gallery.streamdata.io
   image: blazemeter.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing BlazeMeter's APIs.
   paths: "14"
-- label: ~
+- label: Blizzard
   slug: blizzard
   url: http://blizzard.api.gallery.streamdata.io
   image: blizzard.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Blizzard's APIs.
   paths: "11"
-- label: ~
+- label: Blockchain
   slug: blockchain
   url: http://blockchain.api.gallery.streamdata.io
   image: blockchain.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Blockchain's APIs.
   paths: "184"
-- label: ~
+- label: Blogger
   slug: blogger
   url: http://blogger.api.gallery.streamdata.io
   image: blogger.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Blogger's APIs.
   paths: "33"
-- label: ~
+- label: BMC Software
   slug: bmc-software
   url: http://bmc.software.api.gallery.streamdata.io
   image: bmc-software.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing BMC Software's APIs.
   paths: "82"
-- label: ~
+- label: Bookeo
   slug: bookeo
   url: http://bookeo.api.gallery.streamdata.io
   image: bookeo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Bookeo's APIs.
   paths: "52"
-- label: ~
+- label: Botify
   slug: botify
   url: http://botify.api.gallery.streamdata.io
   image: botify.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Botify's APIs.
   paths: "51"
-- label: ~
+- label: Box
   slug: box
   url: http://box.api.gallery.streamdata.io
   image: box.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Box's APIs.
   paths: "128"
-- label: ~
+- label: Boxcar
   slug: boxcar
   url: http://boxcar.api.gallery.streamdata.io
   image: boxcar.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Boxcar's APIs.
   paths: "1"
-- label: ~
+- label: Broadleaf Commerce
   slug: broadleaf-commerce
   url: http://broadleaf.commerce.api.gallery.streamdata.io
   image: broadleaf-commerce.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Broadleaf Commerce's APIs.
   paths: "151"
-- label: ~
+- label: Browshot
   slug: browshot
   url: http://browshot.api.gallery.streamdata.io
   image: browshot.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Browshot's APIs.
   paths: "34"
-- label: ~
+- label: Buffer
   slug: buffer
   url: http://buffer.api.gallery.streamdata.io
   image: buffer.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Buffer's APIs.
   paths: "18"
-- label: ~
+- label: Bureau of Alcohol, Tobacco, Firearms, and Explosives
   slug: bureau-of-alcohol-tobacco-firearms-and-explosives
   url: http://bureau.of.alcohol.tobacco.firearms.and.explosives.api.gallery.streamdata.io
   image: bureau-of-alcohol-tobacco-firearms-and-explosives.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Bureau of Alcohol, Tobacco, Firearms,
+    and Explosives's APIs.
   paths: "14"
-- label: ~
+- label: Bureau of Economic Analysis
   slug: bureau-of-economic-analysis
   url: http://bureau.of.economic.analysis.api.gallery.streamdata.io
   image: bureau-of-economic-analysis.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Bureau of Economic Analysis's APIs.
   paths: "1"
-- label: ~
+- label: Bureau of Justice Statistics
   slug: bureau-of-justice-statistics
   url: http://bureau.of.justice.statistics.api.gallery.streamdata.io
   image: bureau-of-justice-statistics.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Bureau of Justice Statistics's APIs.
   paths: "7"
-- label: ~
+- label: CallFire
   slug: callfire
   url: http://callfire.api.gallery.streamdata.io
   image: callfire.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing CallFire's APIs.
   paths: "117"
-- label: ~
+- label: Capital One DevExchange
   slug: capital-one-devexchange
   url: http://capital.one.devexchange.api.gallery.streamdata.io
   image: capital-one-devexchange.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Capital One DevExchange's APIs.
   paths: "53"
-- label: ~
+- label: ChainGenie
   slug: chaingenie
   url: http://chaingenie.api.gallery.streamdata.io
   image: chaingenie.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing ChainGenie's APIs.
   paths: "33"
-- label: ~
+- label: Charity Navigator
   slug: charity-navigator
   url: http://charity.navigator.api.gallery.streamdata.io
   image: charity-navigator.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Charity Navigator's APIs.
   paths: "11"
-- label: ~
+- label: CircleCI
   slug: circleci
   url: http://circleci.api.gallery.streamdata.io
   image: circleci.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing CircleCI's APIs.
   paths: "35"
-- label: ~
+- label: Cisco Unity Connection Messaging Interface
   slug: cisco-unity-connection-messaging-interface
   url: http://cisco.unity.connection.messaging.interface.api.gallery.streamdata.io
   image: cisco-unity-connection-messaging-interface.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Cisco Unity Connection Messaging Interface's
+    APIs.
   paths: "20"
-- label: ~
+- label: Cisco WebEx
   slug: cisco-webex
   url: http://cisco.webex.api.gallery.streamdata.io
   image: cisco-webex.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Cisco WebEx's APIs.
   paths: "44"
-- label: ~
+- label: Clearbit
   slug: clearbit
   url: http://clearbit.api.gallery.streamdata.io
   image: clearbit.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Clearbit's APIs.
   paths: "7"
-- label: ~
+- label: Click Meter
   slug: click-meter
   url: http://click.meter.api.gallery.streamdata.io
   image: click-meter.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Click Meter's APIs.
   paths: "108"
-- label: ~
+- label: Clickatell
   slug: clickatell
   url: http://clickatell.api.gallery.streamdata.io
   image: clickatell.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Clickatell's APIs.
   paths: "1"
-- label: ~
+- label: ClimaCell
   slug: climacell
   url: http://climacell.api.gallery.streamdata.io
   image: climacell.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing ClimaCell's APIs.
   paths: "32"
-- label: ~
+- label: Clockwork
   slug: clockwork
   url: http://clockwork.api.gallery.streamdata.io
   image: clockwork.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Clockwork's APIs.
   paths: "2"
-- label: ~
+- label: Cloud Elements
   slug: cloud-elements
   url: http://cloud.elements.api.gallery.streamdata.io
   image: cloud-elements.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Cloud Elements's APIs.
   paths: "13"
-- label: ~
+- label: CloudFlare
   slug: cloudflare
   url: http://cloudflare.api.gallery.streamdata.io
   image: cloudflare.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing CloudFlare's APIs.
   paths: "86"
-- label: ~
+- label: Clover
   slug: clover
   url: http://clover.api.gallery.streamdata.io
   image: clover.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Clover's APIs.
   paths: "192"
-- label: ~
+- label: Code.gov
   slug: code-gov
   url: http://code.gov.api.gallery.streamdata.io
   image: code-gov.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Code.gov's APIs.
   paths: "24"
-- label: ~
+- label: Codefresh
   slug: codefresh
   url: http://codefresh.api.gallery.streamdata.io
   image: codefresh.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Codefresh's APIs.
   paths: "63"
-- label: ~
+- label: CoinFabrik
   slug: coinfabrik
   url: http://coinfabrik.api.gallery.streamdata.io
   image: coinfabrik.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing CoinFabrik's APIs.
   paths: "21"
-- label: ~
+- label: CoinMarketCap
   slug: coinmarketcap
   url: http://coinmarketcap.api.gallery.streamdata.io
   image: coinmarketcap.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing CoinMarketCap's APIs.
   paths: "18"
-- label: ~
+- label: CollabNet
   slug: collabnet
   url: http://collabnet.api.gallery.streamdata.io
   image: collabnet.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing CollabNet's APIs.
   paths: "159"
-- label: ~
+- label: Compile
   slug: compile
   url: http://compile.api.gallery.streamdata.io
   image: compile.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Compile's APIs.
   paths: "6"
-- label: ~
+- label: Constant Contact
   slug: constant-contact
   url: http://constant.contact.api.gallery.streamdata.io
   image: constant-contact.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Constant Contact's APIs.
   paths: "39"
-- label: ~
+- label: Context.IO
   slug: context-io
   url: http://context.io.api.gallery.streamdata.io
   image: context-io.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Context.IO's APIs.
   paths: "60"
-- label: ~
+- label: ConvertAPI
   slug: convertapi
   url: http://convertapi.api.gallery.streamdata.io
   image: convertapi.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing ConvertAPI's APIs.
   paths: "37"
-- label: ~
+- label: Coord
   slug: coord
   url: http://coord.api.gallery.streamdata.io
   image: coord.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Coord's APIs.
   paths: "31"
-- label: ~
+- label: Coutts
   slug: coutts
   url: http://coutts.api.gallery.streamdata.io
   image: coutts.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Coutts's APIs.
   paths: "1"
-- label: ~
+- label: Cryptagio
   slug: cryptagio
   url: http://cryptagio.api.gallery.streamdata.io
   image: cryptagio.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Cryptagio's APIs.
   paths: "9"
-- label: ~
+- label: Crypto Compare
   slug: crypto-compare
   url: http://crypto.compare.api.gallery.streamdata.io
   image: crypto-compare.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Crypto Compare's APIs.
   paths: "4"
-- label: ~
+- label: Danske Bank
   slug: danske-bank
   url: http://danske.bank.api.gallery.streamdata.io
   image: danske-bank.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Danske Bank's APIs.
   paths: "5"
-- label: ~
+- label: Data.Gov
   slug: data-gov
   url: http://data.gov.api.gallery.streamdata.io
   image: data-gov.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Data.Gov's APIs.
   paths: "312"
-- label: ~
+- label: Data.Gov.au
   slug: data-gov-au
   url: http://data.gov.au.api.gallery.streamdata.io
   image: data-gov-au.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Data.Gov.au's APIs.
   paths: "3"
-- label: ~
+- label: Data2CRM
   slug: data2crm
   url: http://data2crm.api.gallery.streamdata.io
   image: data2crm.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Data2CRM's APIs.
   paths: "95"
-- label: ~
+- label: DataAtWork
   slug: dataatwork
   url: http://dataatwork.api.gallery.streamdata.io
   image: dataatwork.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing DataAtWork's APIs.
   paths: "13"
-- label: ~
+- label: Datadog
   slug: datadog
   url: http://datadog.api.gallery.streamdata.io
   image: datadog.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Datadog's APIs.
   paths: "48"
-- label: ~
+- label: Datumbox
   slug: datumbox
   url: http://datumbox.api.gallery.streamdata.io
   image: datumbox.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Datumbox's APIs.
   paths: "28"
-- label: ~
+- label: Digital River
   slug: digital-river
   url: http://digital.river.api.gallery.streamdata.io
   image: digital-river.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Digital River's APIs.
   paths: "54"
-- label: ~
+- label: Disqus
   slug: disqus
   url: http://disqus.api.gallery.streamdata.io
   image: disqus.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Disqus's APIs.
   paths: "196"
-- label: ~
+- label: DNS Check
   slug: dns-check
   url: http://dns.check.api.gallery.streamdata.io
   image: dns-check.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing DNS Check's APIs.
   paths: "1"
-- label: ~
+- label: Docsmore
   slug: docsmore
   url: http://docsmore.api.gallery.streamdata.io
   image: docsmore.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Docsmore's APIs.
   paths: "7"
-- label: ~
+- label: DomainTools
   slug: domaintools
   url: http://domaintools.api.gallery.streamdata.io
   image: domaintools.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing DomainTools's APIs.
   paths: "14"
-- label: ~
+- label: DonorsChoose
   slug: donorschoose
   url: http://donorschoose.api.gallery.streamdata.io
   image: donorschoose.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing DonorsChoose's APIs.
   paths: "3"
-- label: ~
+- label: Dropbox
   slug: dropbox
   url: http://dropbox.api.gallery.streamdata.io
   image: dropbox.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Dropbox's APIs.
   paths: "51"
-- label: ~
+- label: DuckDuckGo
   slug: duckduckgo
   url: http://duckduckgo.api.gallery.streamdata.io
   image: duckduckgo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing DuckDuckGo's APIs.
   paths: "1"
-- label: ~
+- label: Dyn
   slug: dyn
   url: http://dyn.api.gallery.streamdata.io
   image: dyn.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Dyn's APIs.
   paths: "28"
-- label: ~
+- label: EasyCron
   slug: easycron
   url: http://easycron.api.gallery.streamdata.io
   image: easycron.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing EasyCron's APIs.
   paths: "8"
-- label: ~
+- label: eBay
   slug: ebay
   url: http://ebay.api.gallery.streamdata.io
   image: ebay.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing eBay's APIs.
   paths: "19"
-- label: ~
+- label: EhrScape
   slug: ehrscape
   url: http://ehrscape.api.gallery.streamdata.io
   image: ehrscape.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing EhrScape's APIs.
   paths: "60"
-- label: ~
+- label: Elastic Email
   slug: elastic-email
   url: http://elastic.email.api.gallery.streamdata.io
   image: elastic-email.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Elastic Email's APIs.
   paths: "17"
-- label: ~
+- label: eMuseum API docs
   slug: emuseum-api-docs
   url: http://emuseum.api.docs.api.gallery.streamdata.io
   image: emuseum-api-docs.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing eMuseum API docs's APIs.
   paths: "8"
-- label: ~
+- label: Entertainment Express
   slug: entertainment-express
   url: http://entertainment.express.api.gallery.streamdata.io
   image: entertainment-express.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Entertainment Express's APIs.
   paths: "90"
-- label: ~
+- label: Envestnet
   slug: envestnet
   url: http://envestnet.api.gallery.streamdata.io
   image: envestnet.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Envestnet's APIs.
   paths: "19"
-- label: ~
+- label: EPA Envirofacts
   slug: epa-envirofacts
   url: http://epa.envirofacts.api.gallery.streamdata.io
   image: epa-envirofacts.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing EPA Envirofacts's APIs.
   paths: "497"
-- label: ~
+- label: Esme
   slug: esme
   url: http://esme.api.gallery.streamdata.io
   image: esme.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Esme's APIs.
   paths: "1"
-- label: ~
+- label: Etsy
   slug: etsy
   url: http://etsy.api.gallery.streamdata.io
   image: etsy.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Etsy's APIs.
   paths: "115"
-- label: ~
+- label: EU BON UTIS
   slug: eu-bon-utis
   url: http://eu.bon.utis.api.gallery.streamdata.io
   image: eu-bon-utis.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing EU BON UTIS's APIs.
   paths: "2"
-- label: ~
+- label: EU VAT API
   slug: eu-vat-api
   url: http://eu.vat.api.api.gallery.streamdata.io
   image: eu-vat-api.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing EU VAT API's APIs.
   paths: "3"
-- label: ~
+- label: Europeana
   slug: europeana
   url: http://europeana.api.gallery.streamdata.io
   image: europeana.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Europeana's APIs.
   paths: "26"
-- label: ~
+- label: Eventbrite
   slug: eventbrite
   url: http://eventbrite.api.gallery.streamdata.io
   image: eventbrite.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Eventbrite's APIs.
   paths: "165"
-- label: ~
+- label: EVRYTHNG
   slug: evrythng
   url: http://evrythng.api.gallery.streamdata.io
   image: evrythng.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing EVRYTHNG's APIs.
   paths: "1"
-- label: ~
+- label: Expedia
   slug: expedia
   url: http://expedia.api.gallery.streamdata.io
   image: expedia.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Expedia's APIs.
   paths: "53"
-- label: ~
+- label: Facebook
   slug: facebook
   url: http://facebook.api.gallery.streamdata.io
   image: facebook.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Facebook's APIs.
   paths: "351"
-- label: ~
+- label: Factual
   slug: factual
   url: http://factual.api.gallery.streamdata.io
   image: factual.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Factual's APIs.
   paths: "9"
-- label: ~
+- label: Fire Browse
   slug: fire-browse
   url: http://fire.browse.api.gallery.streamdata.io
   image: fire-browse.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Fire Browse's APIs.
   paths: "30"
-- label: ~
+- label: Firebase
   slug: firebase
   url: http://firebase.api.gallery.streamdata.io
   image: firebase.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Firebase's APIs.
   paths: "52"
-- label: ~
+- label: First Trust Bank
   slug: first-trust-bank
   url: http://first.trust.bank.api.gallery.streamdata.io
   image: first-trust-bank.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing First Trust Bank's APIs.
   paths: "5"
-- label: ~
+- label: Fitbit
   slug: fitbit
   url: http://fitbit.api.gallery.streamdata.io
   image: fitbit.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Fitbit's APIs.
   paths: "134"
-- label: ~
+- label: Flat
   slug: flat
   url: http://flat.api.gallery.streamdata.io
   image: flat.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Flat's APIs.
   paths: "24"
-- label: ~
+- label: Flickr
   slug: flickr
   url: http://flickr.api.gallery.streamdata.io
   image: flickr.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Flickr's APIs.
   paths: "208"
-- label: ~
+- label: Flowroute
   slug: flowroute
   url: http://flowroute.api.gallery.streamdata.io
   image: flowroute.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Flowroute's APIs.
   paths: "14"
-- label: ~
+- label: Fluxiom
   slug: fluxiom
   url: http://fluxiom.api.gallery.streamdata.io
   image: fluxiom.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Fluxiom's APIs.
   paths: "17"
-- label: ~
+- label: Foursquare
   slug: foursquare
   url: http://foursquare.api.gallery.streamdata.io
   image: foursquare.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Foursquare's APIs.
   paths: "106"
-- label: ~
+- label: Framesocket
   slug: framesocket
   url: http://framesocket.api.gallery.streamdata.io
   image: framesocket.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Framesocket's APIs.
   paths: "6"
-- label: ~
+- label: FraudLabs Pro
   slug: fraudlabs-pro
   url: http://fraudlabs.pro.api.gallery.streamdata.io
   image: fraudlabs-pro.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing FraudLabs Pro's APIs.
   paths: "2"
-- label: ~
+- label: Freesound
   slug: freesound
   url: http://freesound.api.gallery.streamdata.io
   image: freesound.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Freesound's APIs.
   paths: "2"
-- label: ~
+- label: FullContact
   slug: fullcontact
   url: http://fullcontact.api.gallery.streamdata.io
   image: fullcontact.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing FullContact's APIs.
   paths: "17"
-- label: ~
+- label: Ge.tt
   slug: ge-tt
   url: http://ge.tt.api.gallery.streamdata.io
   image: ge-tt.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Ge.tt's APIs.
   paths: "13"
-- label: ~
+- label: Gemalto
   slug: gemalto
   url: http://gemalto.api.gallery.streamdata.io
   image: gemalto.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Gemalto's APIs.
   paths: "103"
-- label: ~
+- label: Geneea
   slug: geneea
   url: http://geneea.api.gallery.streamdata.io
   image: geneea.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Geneea's APIs.
   paths: "11"
-- label: ~
+- label: GetStream.io
   slug: getstream-io
   url: http://getstream.io.api.gallery.streamdata.io
   image: getstream-io.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing GetStream.io's APIs.
   paths: "2"
-- label: ~
+- label: Getty Images
   slug: getty-images
   url: http://getty.images.api.gallery.streamdata.io
   image: getty-images.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Getty Images's APIs.
   paths: "43"
-- label: ~
+- label: Giphy
   slug: giphy
   url: http://giphy.api.gallery.streamdata.io
   image: giphy.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Giphy's APIs.
   paths: "10"
-- label: ~
+- label: GitHub
   slug: github
   url: http://github.api.gallery.streamdata.io
   image: github.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing GitHub's APIs.
   paths: "246"
-- label: ~
+- label: GitLab
   slug: gitlab
   url: http://gitlab.api.gallery.streamdata.io
   image: gitlab.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing GitLab's APIs.
   paths: "359"
-- label: ~
+- label: Gitter
   slug: gitter
   url: http://gitter.api.gallery.streamdata.io
   image: gitter.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Gitter's APIs.
   paths: "19"
-- label: ~
+- label: GlobalChange.gov
   slug: globalchange-gov
   url: http://globalchange.gov.api.gallery.streamdata.io
   image: globalchange-gov.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing GlobalChange.gov's APIs.
   paths: "84"
-- label: ~
+- label: Gmail
   slug: gmail
   url: http://gmail.api.gallery.streamdata.io
   image: gmail.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Gmail's APIs.
   paths: "62"
-- label: ~
+- label: Google Adsense
   slug: google-adsense
   url: http://google.adsense.api.gallery.streamdata.io
   image: google-adsense.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Adsense's APIs.
   paths: "26"
-- label: ~
+- label: Google Analytics
   slug: google-analytics
   url: http://google.analytics.api.gallery.streamdata.io
   image: google-analytics.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Analytics's APIs.
   paths: "84"
-- label: ~
+- label: Google API Discovery Service
   slug: google-api-discovery-service
   url: http://google.api.discovery.service.api.gallery.streamdata.io
   image: google-api-discovery-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google API Discovery Service's APIs.
   paths: "2"
-- label: ~
+- label: Google App Engine
   slug: google-app-engine
   url: http://google.app.engine.api.gallery.streamdata.io
   image: google-app-engine.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google App Engine's APIs.
   paths: "21"
-- label: ~
+- label: Google Apps Admin SDK
   slug: google-apps-admin-sdk
   url: http://google.apps.admin.sdk.api.gallery.streamdata.io
   image: google-apps-admin-sdk.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Apps Admin SDK's APIs.
   paths: "33"
-- label: ~
+- label: Google Apps Script Execution
   slug: google-apps-script-execution
   url: http://google.apps.script.execution.api.gallery.streamdata.io
   image: google-apps-script-execution.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Apps Script Execution's APIs.
   paths: "1"
-- label: ~
+- label: Google Beacons
   slug: google-beacons
   url: http://google.beacons.api.gallery.streamdata.io
   image: google-beacons.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Beacons's APIs.
   paths: "17"
-- label: ~
+- label: Google Biquery
   slug: google-biquery
   url: http://google.biquery.api.gallery.streamdata.io
   image: google-biquery.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Biquery's APIs.
   paths: "21"
-- label: ~
+- label: Google Books
   slug: google-books
   url: http://google.books.api.gallery.streamdata.io
   image: google-books.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Books's APIs.
   paths: "48"
-- label: ~
+- label: Google Calendar
   slug: google-calendar
   url: http://google.calendar.api.gallery.streamdata.io
   image: google-calendar.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Calendar's APIs.
   paths: "37"
-- label: ~
+- label: Google Civic Information
   slug: google-civic-information
   url: http://google.civic.information.api.gallery.streamdata.io
   image: google-civic-information.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Civic Information's APIs.
   paths: "5"
-- label: ~
+- label: Google Classroom
   slug: google-classroom
   url: http://google.classroom.api.gallery.streamdata.io
   image: google-classroom.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Classroom's APIs.
   paths: "42"
-- label: ~
+- label: Google Cloud Billing
   slug: google-cloud-billing
   url: http://google.cloud.billing.api.gallery.streamdata.io
   image: google-cloud-billing.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Billing's APIs.
   paths: "5"
-- label: ~
+- label: Google Cloud Container Builder
   slug: google-cloud-container-builder
   url: http://google.cloud.container.builder.api.gallery.streamdata.io
   image: google-cloud-container-builder.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Container Builder's APIs.
   paths: "11"
-- label: ~
+- label: Google Cloud Dataproc
   slug: google-cloud-dataproc
   url: http://google.cloud.dataproc.api.gallery.streamdata.io
   image: google-cloud-dataproc.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Dataproc's APIs.
   paths: "15"
-- label: ~
+- label: Google Cloud Datastore
   slug: google-cloud-datastore
   url: http://google.cloud.datastore.api.gallery.streamdata.io
   image: google-cloud-datastore.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Datastore's APIs.
   paths: "6"
-- label: ~
+- label: Google Cloud Deployment Manager
   slug: google-cloud-deployment-manager
   url: http://google.cloud.deployment.manager.api.gallery.streamdata.io
   image: google-cloud-deployment-manager.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Deployment Manager's APIs.
   paths: "21"
-- label: ~
+- label: Google Cloud DNS
   slug: google-cloud-dns
   url: http://google.cloud.dns.api.gallery.streamdata.io
   image: google-cloud-dns.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud DNS's APIs.
   paths: "9"
-- label: ~
+- label: Google Cloud Functions
   slug: google-cloud-functions
   url: http://google.cloud.functions.api.gallery.streamdata.io
   image: google-cloud-functions.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Functions's APIs.
   paths: "1"
-- label: ~
+- label: Google Cloud Identity Access Management
   slug: google-cloud-identity-access-management
   url: http://google.cloud.identity.access.management.api.gallery.streamdata.io
   image: google-cloud-identity-access-management.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Identity Access Management's
+    APIs.
   paths: "13"
-- label: ~
+- label: Google Cloud Key Management Service
   slug: google-cloud-key-management-service
   url: http://google.cloud.key.management.service.api.gallery.streamdata.io
   image: google-cloud-key-management-service.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Key Management Service's
+    APIs.
   paths: "17"
-- label: ~
+- label: Google Cloud Machine Learning Engine
   slug: google-cloud-machine-learning-engine
   url: http://google.cloud.machine.learning.engine.api.gallery.streamdata.io
   image: google-cloud-machine-learning-engine.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Machine Learning Engine's
+    APIs.
   paths: "13"
-- label: ~
+- label: Google Cloud Natural Language
   slug: google-cloud-natural-language
   url: http://google.cloud.natural.language.api.gallery.streamdata.io
   image: google-cloud-natural-language.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Natural Language's APIs.
   paths: "4"
-- label: ~
+- label: Google Cloud Prediction
   slug: google-cloud-prediction
   url: http://google.cloud.prediction.api.gallery.streamdata.io
   image: google-cloud-prediction.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Prediction's APIs.
   paths: "8"
-- label: ~
+- label: Google Cloud Pub Sub
   slug: google-cloud-pub-sub
   url: http://google.cloud.pub.sub.api.gallery.streamdata.io
   image: google-cloud-pub-sub.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Pub Sub's APIs.
   paths: "16"
-- label: ~
+- label: Google Cloud Resource Manager
   slug: google-cloud-resource-manager
   url: http://google.cloud.resource.manager.api.gallery.streamdata.io
   image: google-cloud-resource-manager.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Resource Manager's APIs.
   paths: "18"
-- label: ~
+- label: Google Cloud Source Repositories
   slug: google-cloud-source-repositories
   url: http://google.cloud.source.repositories.api.gallery.streamdata.io
   image: google-cloud-source-repositories.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Source Repositories's APIs.
   paths: "7"
-- label: ~
+- label: Google Cloud Spanner
   slug: google-cloud-spanner
   url: http://google.cloud.spanner.api.gallery.streamdata.io
   image: google-cloud-spanner.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Spanner's APIs.
   paths: "23"
-- label: ~
+- label: Google Cloud SQL
   slug: google-cloud-sql
   url: http://google.cloud.sql.api.gallery.streamdata.io
   image: google-cloud-sql.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud SQL's APIs.
   paths: "40"
-- label: ~
+- label: Google Cloud Storage
   slug: google-cloud-storage
   url: http://google.cloud.storage.api.gallery.streamdata.io
   image: google-cloud-storage.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Storage's APIs.
   paths: "52"
-- label: ~
+- label: Google Cloud User Accounts
   slug: google-cloud-user-accounts
   url: http://google.cloud.user.accounts.api.gallery.streamdata.io
   image: google-cloud-user-accounts.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud User Accounts's APIs.
   paths: "23"
-- label: ~
+- label: Google Cloud Vision
   slug: google-cloud-vision
   url: http://google.cloud.vision.api.gallery.streamdata.io
   image: google-cloud-vision.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Cloud Vision's APIs.
   paths: "1"
-- label: ~
+- label: Google Compute Engine
   slug: google-compute-engine
   url: http://google.compute.engine.api.gallery.streamdata.io
   image: google-compute-engine.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Compute Engine's APIs.
   paths: "260"
-- label: ~
+- label: Google Consumer Surveys
   slug: google-consumer-surveys
   url: http://google.consumer.surveys.api.gallery.streamdata.io
   image: google-consumer-surveys.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Consumer Surveys's APIs.
   paths: "11"
-- label: ~
+- label: Google Container Engine
   slug: google-container-engine
   url: http://google.container.engine.api.gallery.streamdata.io
   image: google-container-engine.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Container Engine's APIs.
   paths: "15"
-- label: ~
+- label: Google Content API for Shopping
   slug: google-content-api-for-shopping
   url: http://google.content.api.for.shopping.api.gallery.streamdata.io
   image: google-content-api-for-shopping.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Content API for Shopping's APIs.
   paths: "62"
-- label: ~
+- label: Google Dataflow
   slug: google-dataflow
   url: http://google.dataflow.api.gallery.streamdata.io
   image: google-dataflow.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Dataflow's APIs.
   paths: "22"
-- label: ~
+- label: Google Doubleclick
   slug: google-doubleclick
   url: http://google.doubleclick.api.gallery.streamdata.io
   image: google-doubleclick.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Doubleclick's APIs.
   paths: "274"
-- label: ~
+- label: Google Drive
   slug: google-drive
   url: http://google.drive.api.gallery.streamdata.io
   image: google-drive.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Drive's APIs.
   paths: "39"
-- label: ~
+- label: Google Fit
   slug: google-fit
   url: http://google.fit.api.gallery.streamdata.io
   image: google-fit.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Fit's APIs.
   paths: "13"
-- label: ~
+- label: Google Fonts
   slug: google-fonts
   url: http://google.fonts.api.gallery.streamdata.io
   image: google-fonts.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Fonts's APIs.
   paths: "1"
-- label: ~
+- label: Google Fusion Tables
   slug: google-fusion-tables
   url: http://google.fusion.tables.api.gallery.streamdata.io
   image: google-fusion-tables.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Fusion Tables's APIs.
   paths: "33"
-- label: ~
+- label: Google Genomics
   slug: google-genomics
   url: http://google.genomics.api.gallery.streamdata.io
   image: google-genomics.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Genomics's APIs.
   paths: "53"
-- label: ~
+- label: Google Glass
   slug: google-glass
   url: http://google.glass.api.gallery.streamdata.io
   image: google-glass.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Glass's APIs.
   paths: "24"
-- label: ~
+- label: Google Knowledge Graph Search
   slug: google-knowledge-graph-search
   url: http://google.knowledge.graph.search.api.gallery.streamdata.io
   image: google-knowledge-graph-search.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Knowledge Graph Search's APIs.
   paths: "1"
-- label: ~
+- label: Google Manufacturer Center
   slug: google-manufacturer-center
   url: http://google.manufacturer.center.api.gallery.streamdata.io
   image: google-manufacturer-center.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Manufacturer Center's APIs.
   paths: "2"
-- label: ~
+- label: Google OAuth2
   slug: google-oauth2
   url: http://google.oauth2.api.gallery.streamdata.io
   image: google-oauth2.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google OAuth2's APIs.
   paths: "4"
-- label: ~
+- label: Google PageSpeed Insights
   slug: google-pagespeed-insights
   url: http://google.pagespeed.insights.api.gallery.streamdata.io
   image: google-pagespeed-insights.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google PageSpeed Insights's APIs.
   paths: "1"
-- label: ~
+- label: Google Partners
   slug: google-partners
   url: http://google.partners.api.gallery.streamdata.io
   image: google-partners.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Partners's APIs.
   paths: "18"
-- label: ~
+- label: Google People
   slug: google-people
   url: http://google.people.api.gallery.streamdata.io
   image: google-people.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google People's APIs.
   paths: "3"
-- label: ~
+- label: Google Play
   slug: google-play
   url: http://google.play.api.gallery.streamdata.io
   image: google-play.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Play's APIs.
   paths: "192"
-- label: ~
+- label: Google Plus
   slug: google-plus
   url: http://google.plus.api.gallery.streamdata.io
   image: google-plus.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Plus's APIs.
   paths: "22"
-- label: ~
+- label: Google QPX Express
   slug: google-qpx-express
   url: http://google.qpx.express.api.gallery.streamdata.io
   image: google-qpx-express.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google QPX Express's APIs.
   paths: "1"
-- label: ~
+- label: Google Safe Browsing
   slug: google-safe-browsing
   url: http://google.safe.browsing.api.gallery.streamdata.io
   image: google-safe-browsing.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Safe Browsing's APIs.
   paths: "6"
-- label: ~
+- label: Google Search Console
   slug: google-search-console
   url: http://google.search.console.api.gallery.streamdata.io
   image: google-search-console.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Search Console's APIs.
   paths: "14"
-- label: ~
+- label: Google Service Control
   slug: google-service-control
   url: http://google.service.control.api.gallery.streamdata.io
   image: google-service-control.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Service Control's APIs.
   paths: "6"
-- label: ~
+- label: Google Service Management
   slug: google-service-management
   url: http://google.service.management.api.gallery.streamdata.io
   image: google-service-management.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Service Management's APIs.
   paths: "20"
-- label: ~
+- label: Google Sheets
   slug: google-sheets
   url: http://google.sheets.api.gallery.streamdata.io
   image: google-sheets.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Sheets's APIs.
   paths: "17"
-- label: ~
+- label: Google Site Verification
   slug: google-site-verification
   url: http://google.site.verification.api.gallery.streamdata.io
   image: google-site-verification.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Site Verification's APIs.
   paths: "7"
-- label: ~
+- label: Google Slides
   slug: google-slides
   url: http://google.slides.api.gallery.streamdata.io
   image: google-slides.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Slides's APIs.
   paths: "4"
-- label: ~
+- label: Google Spectrum Database
   slug: google-spectrum-database
   url: http://google.spectrum.database.api.gallery.streamdata.io
   image: google-spectrum-database.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Spectrum Database's APIs.
   paths: "6"
-- label: ~
+- label: Google Speech
   slug: google-speech
   url: http://google.speech.api.gallery.streamdata.io
   image: google-speech.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Speech's APIs.
   paths: "6"
-- label: ~
+- label: Google Stackdriver Monitoring
   slug: google-stackdriver-monitoring
   url: http://google.stackdriver.monitoring.api.gallery.streamdata.io
   image: google-stackdriver-monitoring.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Stackdriver Monitoring's APIs.
   paths: "40"
-- label: ~
+- label: Google Tag Manager
   slug: google-tag-manager
   url: http://google.tag.manager.api.gallery.streamdata.io
   image: google-tag-manager.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Tag Manager's APIs.
   paths: "50"
-- label: ~
+- label: Google Task Queue
   slug: google-task-queue
   url: http://google.task.queue.api.gallery.streamdata.io
   image: google-task-queue.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Task Queue's APIs.
   paths: "8"
-- label: ~
+- label: Google Tasks
   slug: google-tasks
   url: http://google.tasks.api.gallery.streamdata.io
   image: google-tasks.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Tasks's APIs.
   paths: "14"
-- label: ~
+- label: Google Translate
   slug: google-translate
   url: http://google.translate.api.gallery.streamdata.io
   image: google-translate.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google Translate's APIs.
   paths: "3"
-- label: ~
+- label: Google URL Shortener
   slug: google-url-shortener
   url: http://google.url.shortener.api.gallery.streamdata.io
   image: google-url-shortener.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Google URL Shortener's APIs.
   paths: "3"
-- label: ~
+- label: GoToMeeting
   slug: gotomeeting
   url: http://gotomeeting.api.gallery.streamdata.io
   image: gotomeeting.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing GoToMeeting's APIs.
   paths: "105"
-- label: ~
+- label: GraphHopper
   slug: graphhopper
   url: http://graphhopper.api.gallery.streamdata.io
   image: graphhopper.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing GraphHopper's APIs.
   paths: "1"
-- label: ~
+- label: Groupon
   slug: groupon
   url: http://groupon.api.gallery.streamdata.io
   image: groupon.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Groupon's APIs.
   paths: "24"
-- label: ~
+- label: GSA Per Diem API
   slug: gsa-per-diem-api
   url: http://gsa.per.diem.api.api.gallery.streamdata.io
   image: gsa-per-diem-api.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing GSA Per Diem API's APIs.
   paths: "1"
-- label: ~
+- label: Gumroad
   slug: gumroad
   url: http://gumroad.api.gallery.streamdata.io
   image: gumroad.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Gumroad's APIs.
   paths: "22"
-- label: ~
+- label: Hacker News
   slug: hacker-news
   url: http://hacker.news.api.gallery.streamdata.io
   image: hacker-news.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Hacker News's APIs.
   paths: "6"
-- label: ~
+- label: Halifax Bank
   slug: halifax-bank
   url: http://halifax.bank.api.gallery.streamdata.io
   image: halifax-bank.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Halifax Bank's APIs.
   paths: "3"
-- label: ~
+- label: Healthcare.gov
   slug: healthcare-gov
   url: http://healthcare.gov.api.gallery.streamdata.io
   image: healthcare-gov.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Healthcare.gov's APIs.
   paths: "32"
-- label: ~
+- label: HERE
   slug: here
   url: http://here.api.gallery.streamdata.io
   image: here.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing HERE's APIs.
   paths: "72"
-- label: ~
+- label: Heroku
   slug: heroku
   url: http://heroku.api.gallery.streamdata.io
   image: heroku.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Heroku's APIs.
   paths: "51"
-- label: ~
+- label: Hewlett Packard Enterprise (HPE)
   slug: hewlett-packard-enterprise-hpe
   url: http://hewlett.packard.enterprise.hpe.api.gallery.streamdata.io
   image: hewlett-packard-enterprise-hpe.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Hewlett Packard Enterprise (HPE)'s APIs.
   paths: "10"
-- label: ~
+- label: HHS Media Services
   slug: hhs-media-services
   url: http://hhs.media.services.api.gallery.streamdata.io
   image: hhs-media-services.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing HHS Media Services's APIs.
   paths: "32"
-- label: ~
+- label: HitBTC
   slug: hitbtc
   url: http://hitbtc.api.gallery.streamdata.io
   image: hitbtc.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing HitBTC's APIs.
   paths: "31"
-- label: ~
+- label: HSBC
   slug: hsbc
   url: http://hsbc.api.gallery.streamdata.io
   image: hsbc.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing HSBC's APIs.
   paths: "6"
-- label: ~
+- label: IBM Cloud
   slug: ibm-cloud
   url: http://ibm.cloud.api.gallery.streamdata.io
   image: ibm-cloud.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing IBM Cloud's APIs.
   paths: "47"
-- label: ~
+- label: IBM Financial Crimes Insight for Insurance
   slug: ibm-financial-crimes-insight-for-insurance
   url: http://ibm.financial.crimes.insight.for.insurance.api.gallery.streamdata.io
   image: ibm-financial-crimes-insight-for-insurance.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing IBM Financial Crimes Insight for Insurance's
+    APIs.
   paths: "10"
-- label: ~
+- label: IBM Watson
   slug: ibm-watson
   url: http://ibm.watson.api.gallery.streamdata.io
   image: ibm-watson.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing IBM Watson's APIs.
   paths: "113"
-- label: ~
+- label: Iconfinder
   slug: iconfinder
   url: http://iconfinder.api.gallery.streamdata.io
   image: iconfinder.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Iconfinder's APIs.
   paths: "12"
-- label: ~
+- label: IDX Broker
   slug: idx-broker
   url: http://idx.broker.api.gallery.streamdata.io
   image: idx-broker.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing IDX Broker's APIs.
   paths: "75"
-- label: ~
+- label: IEX
   slug: iex
   url: http://iex.api.gallery.streamdata.io
   image: iex.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing IEX's APIs.
   paths: "22"
-- label: ~
+- label: Import.io
   slug: import-io
   url: http://import.io.api.gallery.streamdata.io
   image: import-io.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Import.io's APIs.
   paths: "9"
-- label: ~
+- label: Infermedica
   slug: infermedica
   url: http://infermedica.api.gallery.streamdata.io
   image: infermedica.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Infermedica's APIs.
   paths: "18"
-- label: ~
+- label: Instagram
   slug: instagram
   url: http://instagram.api.gallery.streamdata.io
   image: instagram.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Instagram's APIs.
   paths: "9"
-- label: ~
+- label: Instructure
   slug: instructure
   url: http://instructure.api.gallery.streamdata.io
   image: instructure.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Instructure's APIs.
   paths: "522"
-- label: ~
+- label: International Trade Administration
   slug: international-trade-administration
   url: http://international.trade.administration.api.gallery.streamdata.io
   image: international-trade-administration.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing International Trade Administration's
+    APIs.
   paths: "1"
-- label: ~
+- label: Intrinio
   slug: intrinio
   url: http://intrinio.api.gallery.streamdata.io
   image: intrinio.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Intrinio's APIs.
   paths: "33"
-- label: ~
+- label: Intuit
   slug: intuit
   url: http://intuit.api.gallery.streamdata.io
   image: intuit.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Intuit's APIs.
   paths: "6"
-- label: ~
+- label: Jumpseller
   slug: jumpseller
   url: http://jumpseller.api.gallery.streamdata.io
   image: jumpseller.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Jumpseller's APIs.
   paths: "96"
-- label: ~
+- label: Kaltura
   slug: kaltura
   url: http://kaltura.api.gallery.streamdata.io
   image: kaltura.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Kaltura's APIs.
   paths: "242"
-- label: ~
+- label: Kentico Cloud
   slug: kentico-cloud
   url: http://kentico.cloud.api.gallery.streamdata.io
   image: kentico-cloud.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Kentico Cloud's APIs.
   paths: "34"
-- label: ~
+- label: Knoema
   slug: knoema
   url: http://knoema.api.gallery.streamdata.io
   image: knoema.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Knoema's APIs.
   paths: "8"
-- label: ~
+- label: Kubernetes
   slug: kubernetes
   url: http://kubernetes.api.gallery.streamdata.io
   image: kubernetes.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Kubernetes's APIs.
   paths: "114"
-- label: ~
+- label: LaunchDarkly
   slug: launchdarkly
   url: http://launchdarkly.api.gallery.streamdata.io
   image: launchdarkly.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing LaunchDarkly's APIs.
   paths: "31"
-- label: ~
+- label: Learnifier
   slug: learnifier
   url: http://learnifier.api.gallery.streamdata.io
   image: learnifier.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Learnifier's APIs.
   paths: "34"
-- label: ~
+- label: link.fish
   slug: link-fish
   url: http://link.fish.api.gallery.streamdata.io
   image: link-fish.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing link.fish's APIs.
   paths: "6"
-- label: ~
+- label: LinkedIn
   slug: linkedin
   url: http://linkedin.api.gallery.streamdata.io
   image: linkedin.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing LinkedIn's APIs.
   paths: "17"
-- label: ~
+- label: Lisk
   slug: lisk
   url: http://lisk.api.gallery.streamdata.io
   image: lisk.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Lisk's APIs.
   paths: "9"
-- label: ~
+- label: LiveChat
   slug: livechat
   url: http://livechat.api.gallery.streamdata.io
   image: livechat.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing LiveChat's APIs.
   paths: "64"
-- label: ~
+- label: Lloyds Bank
   slug: lloyds-bank
   url: http://lloyds.bank.api.gallery.streamdata.io
   image: lloyds-bank.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Lloyds Bank's APIs.
   paths: "6"
-- label: ~
+- label: Logicbroker
   slug: logicbroker
   url: http://logicbroker.api.gallery.streamdata.io
   image: logicbroker.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Logicbroker's APIs.
   paths: "7"
-- label: ~
+- label: LoginRadius
   slug: loginradius
   url: http://loginradius.api.gallery.streamdata.io
   image: loginradius.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing LoginRadius's APIs.
   paths: "2"
-- label: ~
+- label: LogMeIn
   slug: logmein
   url: http://logmein.api.gallery.streamdata.io
   image: logmein.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing LogMeIn's APIs.
   paths: "44"
-- label: ~
+- label: Lota Data
   slug: lota-data
   url: http://lota.data.api.gallery.streamdata.io
   image: lota-data.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Lota Data's APIs.
   paths: "4"
-- label: ~
+- label: Lufthansa
   slug: lufthansa
   url: http://lufthansa.api.gallery.streamdata.io
   image: lufthansa.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Lufthansa's APIs.
   paths: "31"
-- label: ~
+- label: Lyft
   slug: lyft
   url: http://lyft.api.gallery.streamdata.io
   image: lyft.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Lyft's APIs.
   paths: "16"
-- label: ~
+- label: Lykke
   slug: lykke
   url: http://lykke.api.gallery.streamdata.io
   image: lykke.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Lykke's APIs.
   paths: "209"
-- label: ~
+- label: Mailgun
   slug: mailgun
   url: http://mailgun.api.gallery.streamdata.io
   image: mailgun.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Mailgun's APIs.
   paths: "29"
-- label: ~
+- label: Mailjet
   slug: mailjet
   url: http://mailjet.api.gallery.streamdata.io
   image: mailjet.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Mailjet's APIs.
   paths: "11"
-- label: ~
+- label: MapQuest
   slug: mapquest
   url: http://mapquest.api.gallery.streamdata.io
   image: mapquest.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing MapQuest's APIs.
   paths: "2"
-- label: ~
+- label: MasterCard
   slug: mastercard
   url: http://mastercard.api.gallery.streamdata.io
   image: mastercard.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing MasterCard's APIs.
   paths: "11"
-- label: ~
+- label: Matrix
   slug: matrix
   url: http://matrix.api.gallery.streamdata.io
   image: matrix.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Matrix's APIs.
   paths: "2"
-- label: ~
+- label: Mattermost
   slug: mattermost
   url: http://mattermost.api.gallery.streamdata.io
   image: mattermost.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Mattermost's APIs.
   paths: "209"
-- label: ~
+- label: Medium
   slug: medium
   url: http://medium.api.gallery.streamdata.io
   image: medium.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Medium's APIs.
   paths: "5"
-- label: ~
+- label: Meetup
   slug: meetup
   url: http://meetup.api.gallery.streamdata.io
   image: meetup.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Meetup's APIs.
   paths: "143"
-- label: ~
+- label: Messente
   slug: messente
   url: http://messente.api.gallery.streamdata.io
   image: messente.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Messente's APIs.
   paths: "1"
-- label: ~
+- label: Microsoft Graph
   slug: microsoft-graph
   url: http://microsoft.graph.api.gallery.streamdata.io
   image: microsoft-graph.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Microsoft Graph's APIs.
   paths: "529"
-- label: ~
+- label: Microsoft Office 365
   slug: microsoft-office-365
   url: http://microsoft.office.365.api.gallery.streamdata.io
   image: microsoft-office-365.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Microsoft Office 365's APIs.
   paths: "77"
-- label: ~
+- label: MockLab
   slug: mocklab
   url: http://mocklab.api.gallery.streamdata.io
   image: mocklab.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing MockLab's APIs.
   paths: "3"
-- label: ~
+- label: moltin
   slug: moltin
   url: http://moltin.api.gallery.streamdata.io
   image: moltin.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing moltin's APIs.
   paths: "5"
-- label: ~
+- label: MotaWord
   slug: motaword
   url: http://motaword.api.gallery.streamdata.io
   image: motaword.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing MotaWord's APIs.
   paths: "47"
-- label: ~
+- label: Mynewsdesk
   slug: mynewsdesk
   url: http://mynewsdesk.api.gallery.streamdata.io
   image: mynewsdesk.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Mynewsdesk's APIs.
   paths: "7"
-- label: ~
+- label: MySpace Developers
   slug: myspace-developers
   url: http://myspace.developers.api.gallery.streamdata.io
   image: myspace-developers.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing MySpace Developers's APIs.
   paths: "52"
-- label: ~
+- label: National Renewable Energy Laboratory
   slug: national-renewable-energy-laboratory
   url: http://national.renewable.energy.laboratory.api.gallery.streamdata.io
   image: national-renewable-energy-laboratory.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing National Renewable Energy Laboratory's
+    APIs.
   paths: "6"
-- label: ~
+- label: National Snow and Ice Data Center
   slug: national-snow-and-ice-data-center
   url: http://national.snow.and.ice.data.center.api.gallery.streamdata.io
   image: national-snow-and-ice-data-center.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing National Snow and Ice Data Center's
+    APIs.
   paths: "4"
-- label: ~
+- label: Nationwide Building Society
   slug: nationwide-building-society
   url: http://nationwide.building.society.api.gallery.streamdata.io
   image: nationwide-building-society.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Nationwide Building Society's APIs.
   paths: "6"
-- label: ~
+- label: NatWest
   slug: natwest
   url: http://natwest.api.gallery.streamdata.io
   image: natwest.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing NatWest's APIs.
   paths: "6"
-- label: ~
+- label: Neblio
   slug: neblio
   url: http://neblio.api.gallery.streamdata.io
   image: neblio.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Neblio's APIs.
   paths: "2"
-- label: ~
+- label: Netatmo
   slug: netatmo
   url: http://netatmo.api.gallery.streamdata.io
   image: netatmo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Netatmo's APIs.
   paths: "20"
-- label: ~
+- label: NetLicensing
   slug: netlicensing
   url: http://netlicensing.api.gallery.streamdata.io
   image: netlicensing.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing NetLicensing's APIs.
   paths: "41"
-- label: ~
+- label: New Relic
   slug: new-relic
   url: http://new.relic.api.gallery.streamdata.io
   image: new-relic.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing New Relic's APIs.
   paths: "146"
-- label: ~
+- label: News API
   slug: news-api
   url: http://news.api.api.gallery.streamdata.io
   image: news-api.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing News API's APIs.
   paths: "3"
-- label: ~
+- label: NewsCred
   slug: newscred
   url: http://newscred.api.gallery.streamdata.io
   image: newscred.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing NewsCred's APIs.
   paths: "29"
-- label: ~
+- label: NewsWhip
   slug: newswhip
   url: http://newswhip.api.gallery.streamdata.io
   image: newswhip.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing NewsWhip's APIs.
   paths: "6"
-- label: ~
+- label: Nexmo
   slug: nexmo
   url: http://nexmo.api.gallery.streamdata.io
   image: nexmo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Nexmo's APIs.
   paths: "1"
-- label: ~
+- label: Next Caller
   slug: next-caller
   url: http://next.caller.api.gallery.streamdata.io
   image: next-caller.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Next Caller's APIs.
   paths: "4"
-- label: ~
+- label: nFusion Solutions
   slug: nfusion-solutions
   url: http://nfusion.solutions.api.gallery.streamdata.io
   image: nfusion-solutions.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing nFusion Solutions's APIs.
   paths: "18"
-- label: ~
+- label: NPR
   slug: npr
   url: http://npr.api.gallery.streamdata.io
   image: npr.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing NPR's APIs.
   paths: "22"
-- label: ~
+- label: NxtPort
   slug: nxtport
   url: http://nxtport.api.gallery.streamdata.io
   image: nxtport.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing NxtPort's APIs.
   paths: "30"
-- label: ~
+- label: Okta
   slug: okta
   url: http://okta.api.gallery.streamdata.io
   image: okta.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Okta's APIs.
   paths: "9"
-- label: ~
+- label: OneNote
   slug: onenote
   url: http://onenote.api.gallery.streamdata.io
   image: onenote.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing OneNote's APIs.
   paths: "37"
-- label: ~
+- label: OnSched
   slug: onsched
   url: http://onsched.api.gallery.streamdata.io
   image: onsched.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing OnSched's APIs.
   paths: "9"
-- label: ~
+- label: Open Bank Project
   slug: open-bank-project
   url: http://open.bank.project.api.gallery.streamdata.io
   image: open-bank-project.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Open Bank Project's APIs.
   paths: "29"
-- label: ~
+- label: Open FinTech
   slug: open-fintech
   url: http://open.fintech.api.gallery.streamdata.io
   image: open-fintech.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Open FinTech's APIs.
   paths: "16"
-- label: ~
+- label: Open Science Framework
   slug: open-science-framework
   url: http://open.science.framework.api.gallery.streamdata.io
   image: open-science-framework.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Open Science Framework's APIs.
   paths: "111"
-- label: ~
+- label: OpenCage
   slug: opencage
   url: http://opencage.api.gallery.streamdata.io
   image: opencage.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing OpenCage's APIs.
   paths: "1"
-- label: ~
+- label: OpenCorporates
   slug: opencorporates
   url: http://opencorporates.api.gallery.streamdata.io
   image: opencorporates.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing OpenCorporates's APIs.
   paths: "12"
-- label: ~
+- label: OpenDataSoft
   slug: opendatasoft
   url: http://opendatasoft.api.gallery.streamdata.io
   image: opendatasoft.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing OpenDataSoft's APIs.
   paths: "34"
-- label: ~
+- label: OpenDNS
   slug: opendns
   url: http://opendns.api.gallery.streamdata.io
   image: opendns.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing OpenDNS's APIs.
   paths: "15"
-- label: ~
+- label: OpenRouteService
   slug: openrouteservice
   url: http://openrouteservice.api.gallery.streamdata.io
   image: openrouteservice.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing OpenRouteService's APIs.
   paths: "14"
-- label: ~
+- label: OpenStreetMap
   slug: openstreetmap
   url: http://openstreetmap.api.gallery.streamdata.io
   image: openstreetmap.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing OpenStreetMap's APIs.
   paths: "4"
-- label: ~
+- label: OrgHunter
   slug: orghunter
   url: http://orghunter.api.gallery.streamdata.io
   image: orghunter.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing OrgHunter's APIs.
   paths: "6"
-- label: ~
+- label: Oxford Dictionaries
   slug: oxford-dictionaries
   url: http://oxford.dictionaries.api.gallery.streamdata.io
   image: oxford-dictionaries.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Oxford Dictionaries's APIs.
   paths: "35"
-- label: ~
+- label: Paccurate
   slug: paccurate
   url: http://paccurate.api.gallery.streamdata.io
   image: paccurate.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Paccurate's APIs.
   paths: "1"
-- label: ~
+- label: PagerDuty
   slug: pagerduty
   url: http://pagerduty.api.gallery.streamdata.io
   image: pagerduty.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing PagerDuty's APIs.
   paths: "73"
-- label: ~
+- label: ParallelDots
   slug: paralleldots
   url: http://paralleldots.api.gallery.streamdata.io
   image: paralleldots.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing ParallelDots's APIs.
   paths: "14"
-- label: ~
+- label: ParetoNetwork
   slug: paretonetwork
   url: http://paretonetwork.api.gallery.streamdata.io
   image: paretonetwork.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing ParetoNetwork's APIs.
   paths: "14"
-- label: ~
+- label: PayJunction
   slug: payjunction
   url: http://payjunction.api.gallery.streamdata.io
   image: payjunction.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing PayJunction's APIs.
   paths: "50"
-- label: ~
+- label: Paylocity
   slug: paylocity
   url: http://paylocity.api.gallery.streamdata.io
   image: paylocity.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Paylocity's APIs.
   paths: "19"
-- label: ~
+- label: PayPal
   slug: paypal
   url: http://paypal.api.gallery.streamdata.io
   image: paypal.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing PayPal's APIs.
   paths: "32"
-- label: ~
+- label: PayRun
   slug: payrun
   url: http://payrun.api.gallery.streamdata.io
   image: payrun.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing PayRun's APIs.
   paths: "262"
-- label: ~
+- label: Pinboard
   slug: pinboard
   url: http://pinboard.api.gallery.streamdata.io
   image: pinboard.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Pinboard's APIs.
   paths: "12"
-- label: ~
+- label: Pingdom
   slug: pingdom
   url: http://pingdom.api.gallery.streamdata.io
   image: pingdom.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Pingdom's APIs.
   paths: "37"
-- label: ~
+- label: Pingometer
   slug: pingometer
   url: http://pingometer.api.gallery.streamdata.io
   image: pingometer.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Pingometer's APIs.
   paths: "44"
-- label: ~
+- label: Pivotal Tracker
   slug: pivotal-tracker
   url: http://pivotal.tracker.api.gallery.streamdata.io
   image: pivotal-tracker.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Pivotal Tracker's APIs.
   paths: "32"
-- label: ~
+- label: Plentymarkets
   slug: plentymarkets
   url: http://plentymarkets.api.gallery.streamdata.io
   image: plentymarkets.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Plentymarkets's APIs.
   paths: "216"
-- label: ~
+- label: Plivo
   slug: plivo
   url: http://plivo.api.gallery.streamdata.io
   image: plivo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Plivo's APIs.
   paths: "43"
-- label: ~
+- label: Polygon
   slug: polygon
   url: http://polygon.api.gallery.streamdata.io
   image: polygon.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Polygon's APIs.
   paths: "11"
-- label: ~
+- label: Postmark
   slug: postmark
   url: http://postmark.api.gallery.streamdata.io
   image: postmark.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Postmark's APIs.
   paths: "80"
-- label: ~
+- label: PredictHQ
   slug: predicthq
   url: http://predicthq.api.gallery.streamdata.io
   image: predicthq.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing PredictHQ's APIs.
   paths: "15"
-- label: ~
+- label: Predix
   slug: predix
   url: http://predix.api.gallery.streamdata.io
   image: predix.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Predix's APIs.
   paths: "37"
-- label: ~
+- label: Product Hunt
   slug: product-hunt
   url: http://product.hunt.api.gallery.streamdata.io
   image: product-hunt.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Product Hunt's APIs.
   paths: "2"
-- label: ~
+- label: Public Transport Victoria Timetable
   slug: public-transport-victoria-timetable
   url: http://public.transport.victoria.timetable.api.gallery.streamdata.io
   image: public-transport-victoria-timetable.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Public Transport Victoria Timetable's
+    APIs.
   paths: "20"
-- label: ~
+- label: Qualpay
   slug: qualpay
   url: http://qualpay.api.gallery.streamdata.io
   image: qualpay.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Qualpay's APIs.
   paths: "1"
-- label: ~
+- label: Quandl
   slug: quandl
   url: http://quandl.api.gallery.streamdata.io
   image: quandl.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Quandl's APIs.
   paths: "8"
-- label: ~
+- label: Quovo
   slug: quovo
   url: http://quovo.api.gallery.streamdata.io
   image: quovo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Quovo's APIs.
   paths: "24"
-- label: ~
+- label: Rackspace
   slug: rackspace
   url: http://rackspace.api.gallery.streamdata.io
   image: rackspace.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Rackspace's APIs.
   paths: "54"
-- label: ~
+- label: Rebilly
   slug: rebilly
   url: http://rebilly.api.gallery.streamdata.io
   image: rebilly.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Rebilly's APIs.
   paths: "2"
-- label: ~
+- label: Reddit
   slug: reddit
   url: http://reddit.api.gallery.streamdata.io
   image: reddit.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Reddit's APIs.
   paths: "106"
-- label: ~
+- label: Refuge Restrooms
   slug: refuge-restrooms
   url: http://refuge.restrooms.api.gallery.streamdata.io
   image: refuge-restrooms.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Refuge Restrooms's APIs.
   paths: "5"
-- label: ~
+- label: Regulations.gov
   slug: regulations-gov
   url: http://regulations.gov.api.gallery.streamdata.io
   image: regulations-gov.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Regulations.gov's APIs.
   paths: "6"
-- label: ~
+- label: Request Baskets
   slug: request-baskets
   url: http://request.baskets.api.gallery.streamdata.io
   image: request-baskets.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Request Baskets's APIs.
   paths: "4"
-- label: ~
+- label: Respoke
   slug: respoke
   url: http://respoke.api.gallery.streamdata.io
   image: respoke.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Respoke's APIs.
   paths: "8"
-- label: ~
+- label: Reverb
   slug: reverb
   url: http://reverb.api.gallery.streamdata.io
   image: reverb.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Reverb's APIs.
   paths: "182"
-- label: ~
+- label: Reviewshake
   slug: reviewshake
   url: http://reviewshake.api.gallery.streamdata.io
   image: reviewshake.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Reviewshake's APIs.
   paths: "1"
-- label: ~
+- label: RingCentral
   slug: ringcentral
   url: http://ringcentral.api.gallery.streamdata.io
   image: ringcentral.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing RingCentral's APIs.
   paths: "39"
-- label: ~
+- label: RipaEx
   slug: ripaex
   url: http://ripaex.api.gallery.streamdata.io
   image: ripaex.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing RipaEx's APIs.
   paths: "5"
-- label: ~
+- label: Rite Kit
   slug: rite-kit
   url: http://rite.kit.api.gallery.streamdata.io
   image: rite-kit.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Rite Kit's APIs.
   paths: "14"
-- label: ~
+- label: Rotten Tomatoes
   slug: rotten-tomatoes
   url: http://rotten.tomatoes.api.gallery.streamdata.io
   image: rotten-tomatoes.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Rotten Tomatoes's APIs.
   paths: "19"
-- label: ~
+- label: Royal Bank of Scotland
   slug: royal-bank-of-scotland
   url: http://royal.bank.of.scotland.api.gallery.streamdata.io
   image: royal-bank-of-scotland.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Royal Bank of Scotland's APIs.
   paths: "7"
-- label: ~
+- label: Runscope
   slug: runscope
   url: http://runscope.api.gallery.streamdata.io
   image: runscope.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Runscope's APIs.
   paths: "29"
-- label: ~
+- label: Salesforce
   slug: salesforce
   url: http://salesforce.api.gallery.streamdata.io
   image: salesforce.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Salesforce's APIs.
   paths: "15"
-- label: ~
+- label: SalesLoft
   slug: salesloft
   url: http://salesloft.api.gallery.streamdata.io
   image: salesloft.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing SalesLoft's APIs.
   paths: "61"
-- label: ~
+- label: Santander Bank
   slug: santander-bank
   url: http://santander.bank.api.gallery.streamdata.io
   image: santander-bank.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Santander Bank's APIs.
   paths: "6"
-- label: ~
+- label: SAP
   slug: sap
   url: http://sap.api.gallery.streamdata.io
   image: sap.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing SAP's APIs.
   paths: "5"
-- label: ~
+- label: School Digger
   slug: school-digger
   url: http://school.digger.api.gallery.streamdata.io
   image: school-digger.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing School Digger's APIs.
   paths: "7"
-- label: ~
+- label: SendGrid
   slug: sendgrid
   url: http://sendgrid.api.gallery.streamdata.io
   image: sendgrid.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing SendGrid's APIs.
   paths: "245"
-- label: ~
+- label: Sensr.net
   slug: sensr-net
   url: http://sensr.net.api.gallery.streamdata.io
   image: sensr-net.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Sensr.net's APIs.
   paths: "8"
-- label: ~
+- label: Server Density
   slug: server-density
   url: http://server.density.api.gallery.streamdata.io
   image: server-density.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Server Density's APIs.
   paths: "31"
-- label: ~
+- label: Ship Station
   slug: ship-station
   url: http://ship.station.api.gallery.streamdata.io
   image: ship-station.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Ship Station's APIs.
   paths: "2"
-- label: ~
+- label: Shopify
   slug: shopify
   url: http://shopify.api.gallery.streamdata.io
   image: shopify.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Shopify's APIs.
   paths: "42"
-- label: ~
+- label: Shopping.com
   slug: shopping-com
   url: http://shopping.com.api.gallery.streamdata.io
   image: shopping-com.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Shopping.com's APIs.
   paths: "5"
-- label: ~
+- label: Site24x7
   slug: site24x7
   url: http://site24x7.api.gallery.streamdata.io
   image: site24x7.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Site24x7's APIs.
   paths: "57"
-- label: ~
+- label: Slack
   slug: slack
   url: http://slack.api.gallery.streamdata.io
   image: slack.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Slack's APIs.
   paths: "270"
-- label: ~
+- label: SmartBear Software
   slug: smartbear-software
   url: http://smartbear.software.api.gallery.streamdata.io
   image: smartbear-software.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing SmartBear Software's APIs.
   paths: "9"
-- label: ~
+- label: SoundCloud
   slug: soundcloud
   url: http://soundcloud.api.gallery.streamdata.io
   image: soundcloud.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing SoundCloud's APIs.
   paths: "156"
-- label: ~
+- label: SparkPost
   slug: sparkpost
   url: http://sparkpost.api.gallery.streamdata.io
   image: sparkpost.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing SparkPost's APIs.
   paths: "2"
-- label: ~
+- label: SpeakerText
   slug: speakertext
   url: http://speakertext.api.gallery.streamdata.io
   image: speakertext.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing SpeakerText's APIs.
   paths: "3"
-- label: ~
+- label: SpectroCoin
   slug: spectrocoin
   url: http://spectrocoin.api.gallery.streamdata.io
   image: spectrocoin.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing SpectroCoin's APIs.
   paths: "1"
-- label: ~
+- label: Spire Global
   slug: spire-global
   url: http://spire.global.api.gallery.streamdata.io
   image: spire-global.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Spire Global's APIs.
   paths: "4"
-- label: ~
+- label: Spotify
   slug: spotify
   url: http://spotify.api.gallery.streamdata.io
   image: spotify.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Spotify's APIs.
   paths: "37"
-- label: ~
+- label: Spreaker
   slug: spreaker
   url: http://spreaker.api.gallery.streamdata.io
   image: spreaker.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Spreaker's APIs.
   paths: "48"
-- label: ~
+- label: Square
   slug: square
   url: http://square.api.gallery.streamdata.io
   image: square.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Square's APIs.
   paths: "170"
-- label: ~
+- label: Stack Exchange
   slug: stack-exchange
   url: http://stack.exchange.api.gallery.streamdata.io
   image: stack-exchange.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Stack Exchange's APIs.
   paths: "124"
-- label: ~
+- label: Standard Chartered
   slug: standard-chartered
   url: http://standard.chartered.api.gallery.streamdata.io
   image: standard-chartered.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Standard Chartered's APIs.
   paths: "11"
-- label: ~
+- label: StatusPage
   slug: statuspage
   url: http://statuspage.api.gallery.streamdata.io
   image: statuspage.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing StatusPage's APIs.
   paths: "42"
-- label: ~
+- label: Steem
   slug: steem
   url: http://steem.api.gallery.streamdata.io
   image: steem.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Steem's APIs.
   paths: "83"
-- label: ~
+- label: Stocklytics
   slug: stocklytics
   url: http://stocklytics.api.gallery.streamdata.io
   image: stocklytics.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Stocklytics's APIs.
   paths: "3"
-- label: ~
+- label: StockTwits
   slug: stocktwits
   url: http://stocktwits.api.gallery.streamdata.io
   image: stocktwits.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing StockTwits's APIs.
   paths: "1"
-- label: ~
+- label: Storecove
   slug: storecove
   url: http://storecove.api.gallery.streamdata.io
   image: storecove.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Storecove's APIs.
   paths: "1"
-- label: ~
+- label: Strava
   slug: strava
   url: http://strava.api.gallery.streamdata.io
   image: strava.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Strava's APIs.
   paths: "3"
-- label: ~
+- label: Stride
   slug: stride
   url: http://stride.api.gallery.streamdata.io
   image: stride.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Stride's APIs.
   paths: "17"
-- label: ~
+- label: Stripe
   slug: stripe
   url: http://stripe.api.gallery.streamdata.io
   image: stripe.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Stripe's APIs.
   paths: "193"
-- label: ~
+- label: Sustainable Facilities Tool API
   slug: sustainable-facilities-tool-api
   url: http://sustainable.facilities.tool.api.api.gallery.streamdata.io
   image: sustainable-facilities-tool-api.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Sustainable Facilities Tool API's APIs.
   paths: "34"
-- label: ~
+- label: SYNQ Video
   slug: synq-video
   url: http://synq.video.api.gallery.streamdata.io
   image: synq-video.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing SYNQ Video's APIs.
   paths: "8"
-- label: ~
+- label: System Award Management
   slug: system-award-management
   url: http://system.award.management.api.gallery.streamdata.io
   image: system-award-management.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing System Award Management's APIs.
   paths: "1"
-- label: ~
+- label: Taxamo
   slug: taxamo
   url: http://taxamo.api.gallery.streamdata.io
   image: taxamo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Taxamo's APIs.
   paths: "36"
-- label: ~
+- label: TelAPI
   slug: telapi
   url: http://telapi.api.gallery.streamdata.io
   image: telapi.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing TelAPI's APIs.
   paths: "19"
-- label: ~
+- label: The Guardian
   slug: the-guardian
   url: http://the.guardian.api.gallery.streamdata.io
   image: the-guardian.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing The Guardian's APIs.
   paths: "4"
-- label: ~
+- label: The New York Times
   slug: the-new-york-times
   url: http://the.new.york.times.api.gallery.streamdata.io
   image: the-new-york-times.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing The New York Times's APIs.
   paths: "14"
-- label: ~
+- label: The Open Movie Database
   slug: the-open-movie-database
   url: http://the.open.movie.database.api.gallery.streamdata.io
   image: the-open-movie-database.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing The Open Movie Database's APIs.
   paths: "1"
-- label: ~
+- label: The TVDB
   slug: the-tvdb
   url: http://the.tvdb.api.gallery.streamdata.io
   image: the-tvdb.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing The TVDB's APIs.
   paths: "4"
-- label: ~
+- label: TigerText
   slug: tigertext
   url: http://tigertext.api.gallery.streamdata.io
   image: tigertext.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing TigerText's APIs.
   paths: "21"
-- label: ~
+- label: TradeStation
   slug: tradestation
   url: http://tradestation.api.gallery.streamdata.io
   image: tradestation.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing TradeStation's APIs.
   paths: "19"
-- label: ~
+- label: TransitFeeds
   slug: transitfeeds
   url: http://transitfeeds.api.gallery.streamdata.io
   image: transitfeeds.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing TransitFeeds's APIs.
   paths: "5"
-- label: ~
+- label: Transport for London Unified
   slug: transport-for-london-unified
   url: http://transport.for.london.unified.api.gallery.streamdata.io
   image: transport-for-london-unified.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Transport for London Unified's APIs.
   paths: "86"
-- label: ~
+- label: Trello
   slug: trello
   url: http://trello.api.gallery.streamdata.io
   image: trello.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Trello's APIs.
   paths: "3"
-- label: ~
+- label: Tropo
   slug: tropo
   url: http://tropo.api.gallery.streamdata.io
   image: tropo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Tropo's APIs.
   paths: "10"
-- label: ~
+- label: Tumblr
   slug: tumblr
   url: http://tumblr.api.gallery.streamdata.io
   image: tumblr.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Tumblr's APIs.
   paths: "17"
-- label: ~
+- label: TVmaze
   slug: tvmaze
   url: http://tvmaze.api.gallery.streamdata.io
   image: tvmaze.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing TVmaze's APIs.
   paths: "5"
-- label: ~
+- label: Twilio
   slug: twilio
   url: http://twilio.api.gallery.streamdata.io
   image: twilio.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Twilio's APIs.
   paths: "150"
-- label: ~
+- label: Twine
   slug: twine
   url: http://twine.api.gallery.streamdata.io
   image: twine.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Twine's APIs.
   paths: "1"
-- label: ~
+- label: Twitter
   slug: twitter
   url: http://twitter.api.gallery.streamdata.io
   image: twitter.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Twitter's APIs.
   paths: "81"
-- label: ~
+- label: Tyk
   slug: tyk
   url: http://tyk.api.gallery.streamdata.io
   image: tyk.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Tyk's APIs.
   paths: "18"
-- label: ~
+- label: Uber
   slug: uber
   url: http://uber.api.gallery.streamdata.io
   image: uber.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Uber's APIs.
   paths: "5"
-- label: ~
+- label: UC Berkeley
   slug: uc-berkeley
   url: http://uc.berkeley.api.gallery.streamdata.io
   image: uc-berkeley.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing UC Berkeley's APIs.
   paths: "2"
-- label: ~
+- label: uebermaps
   slug: uebermaps
   url: http://uebermaps.api.gallery.streamdata.io
   image: uebermaps.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing uebermaps's APIs.
   paths: "1"
-- label: ~
+- label: UK National Archives
   slug: uk-national-archives
   url: http://uk.national.archives.api.gallery.streamdata.io
   image: uk-national-archives.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing UK National Archives's APIs.
   paths: "82"
-- label: ~
+- label: Ulster Bank
   slug: ulster-bank
   url: http://ulster.bank.api.gallery.streamdata.io
   image: ulster-bank.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Ulster Bank's APIs.
   paths: "5"
-- label: ~
+- label: Urban Airship
   slug: urban-airship
   url: http://urban.airship.api.gallery.streamdata.io
   image: urban-airship.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Urban Airship's APIs.
   paths: "59"
-- label: ~
+- label: USA.Gov Corporate Consumer Contact Information
   slug: usa-gov-corporate-consumer-contact-information
   url: http://usa.gov.corporate.consumer.contact.information.api.gallery.streamdata.io
   image: usa-gov-corporate-consumer-contact-information.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing USA.Gov Corporate Consumer Contact Information's
+    APIs.
   paths: "3"
-- label: ~
+- label: USAJobs API
   slug: usajobs-api
   url: http://usajobs.api.api.gallery.streamdata.io
   image: usajobs-api.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing USAJobs API's APIs.
   paths: "1"
-- label: ~
+- label: UserVoice
   slug: uservoice
   url: http://uservoice.api.gallery.streamdata.io
   image: uservoice.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing UserVoice's APIs.
   paths: "3"
-- label: ~
+- label: Venmo
   slug: venmo
   url: http://venmo.api.gallery.streamdata.io
   image: venmo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Venmo's APIs.
   paths: "6"
-- label: ~
+- label: VersaPay
   slug: versapay
   url: http://versapay.api.gallery.streamdata.io
   image: versapay.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing VersaPay's APIs.
   paths: "25"
-- label: ~
+- label: Vestorly
   slug: vestorly
   url: http://vestorly.api.gallery.streamdata.io
   image: vestorly.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Vestorly's APIs.
   paths: "5"
-- label: ~
+- label: VictorOps
   slug: victorops
   url: http://victorops.api.gallery.streamdata.io
   image: victorops.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing VictorOps's APIs.
   paths: "59"
-- label: ~
+- label: Viddler
   slug: viddler
   url: http://viddler.api.gallery.streamdata.io
   image: viddler.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Viddler's APIs.
   paths: "29"
-- label: ~
+- label: Vinli
   slug: vinli
   url: http://vinli.api.gallery.streamdata.io
   image: vinli.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Vinli's APIs.
   paths: "22"
-- label: ~
+- label: Visage Cloud
   slug: visage-cloud
   url: http://visage.cloud.api.gallery.streamdata.io
   image: visage-cloud.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Visage Cloud's APIs.
   paths: "54"
-- label: ~
+- label: VMWare
   slug: vmware
   url: http://vmware.api.gallery.streamdata.io
   image: vmware.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing VMWare's APIs.
   paths: "4"
-- label: ~
+- label: Vzaar
   slug: vzaar
   url: http://vzaar.api.gallery.streamdata.io
   image: vzaar.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Vzaar's APIs.
   paths: "7"
-- label: ~
+- label: Washington Metropolitan Area Transit Authority
   slug: washington-metropolitan-area-transit-authority
   url: http://washington.metropolitan.area.transit.authority.api.gallery.streamdata.io
   image: washington-metropolitan-area-transit-authority.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Washington Metropolitan Area Transit
+    Authority's APIs.
   paths: "41"
-- label: ~
+- label: Watchful
   slug: watchful
   url: http://watchful.api.gallery.streamdata.io
   image: watchful.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Watchful's APIs.
   paths: "62"
-- label: ~
+- label: Weather Underground
   slug: weather-underground
   url: http://weather.underground.api.gallery.streamdata.io
   image: weather-underground.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Weather Underground's APIs.
   paths: "32"
-- label: ~
+- label: Weatherbit.io
   slug: weatherbit-io
   url: http://weatherbit.io.api.gallery.streamdata.io
   image: weatherbit-io.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Weatherbit.io's APIs.
   paths: "50"
-- label: ~
+- label: WebTRIS
   slug: webtris
   url: http://webtris.api.gallery.streamdata.io
   image: webtris.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing WebTRIS's APIs.
   paths: "11"
-- label: ~
+- label: Wikipedia
   slug: wikipedia
   url: http://wikipedia.api.gallery.streamdata.io
   image: wikipedia.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Wikipedia's APIs.
   paths: "29"
-- label: ~
+- label: Wordnik
   slug: wordnik
   url: http://wordnik.api.gallery.streamdata.io
   image: wordnik.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Wordnik's APIs.
   paths: "28"
-- label: ~
+- label: Xero
   slug: xero
   url: http://xero.api.gallery.streamdata.io
   image: xero.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Xero's APIs.
   paths: "219"
-- label: ~
+- label: Xibo
   slug: xibo
   url: http://xibo.api.gallery.streamdata.io
   image: xibo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Xibo's APIs.
   paths: "102"
-- label: ~
+- label: Xignite
   slug: xignite
   url: http://xignite.api.gallery.streamdata.io
   image: xignite.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Xignite's APIs.
   paths: "538"
-- label: ~
+- label: Yahoo
   slug: yahoo
   url: http://yahoo.api.gallery.streamdata.io
   image: yahoo.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Yahoo's APIs.
   paths: "1"
-- label: ~
+- label: Yapily
   slug: yapily
   url: http://yapily.api.gallery.streamdata.io
   image: yapily.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Yapily's APIs.
   paths: "15"
-- label: ~
+- label: Yelp
   slug: yelp
   url: http://yelp.api.gallery.streamdata.io
   image: yelp.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Yelp's APIs.
   paths: "7"
-- label: ~
+- label: YouTube
   slug: youtube
   url: http://youtube.api.gallery.streamdata.io
   image: youtube.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing YouTube's APIs.
   paths: "134"
-- label: ~
+- label: Zencoder
   slug: zencoder
   url: http://zencoder.api.gallery.streamdata.io
   image: zencoder.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Zencoder's APIs.
   paths: "19"
-- label: ~
+- label: Zendesk
   slug: zendesk
   url: http://zendesk.api.gallery.streamdata.io
   image: zendesk.png
-  description: The gallery section containing 's APIs.
+  description: The gallery section containing Zendesk's APIs.
   paths: "35"
 ...
